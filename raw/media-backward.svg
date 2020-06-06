@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="20"
+   height="20"
+   viewBox="0 0 20 20"
+   version="1.1"
+   id="svg836"
+   inkscape:version="1.0beta2 (6465177, 2020-02-22)"
+   sodipodi:docname="media-backward.svg">
+  <title
+     id="title5097">backward</title>
+  <defs
+     id="defs830" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="32.526912"
+     inkscape:cx="16.741766"
+     inkscape:cy="9.3404258"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg836"
+     showgrid="true"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="2560"
+     inkscape:window-height="1017"
+     inkscape:window-x="2728"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1384"
+       enabled="true" />
+    <sodipodi:guide
+       position="3,19"
+       orientation="0,1"
+       id="guide5089"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="7,1"
+       orientation="0,1"
+       id="guide5091"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1,21"
+       orientation="1,0"
+       id="guide5093"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="19,20"
+       orientation="1,0"
+       id="guide5095"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata833">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>backward</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="path836"
+     style="fill:none;fill-opacity:0.529412;stroke:#000000;stroke-width:0.999995;stroke-linecap:round;stroke-linejoin:round"
+     inkscape:transform-center-x="-10.067485"
+     d="m 19.405725,2.1307089 v 7.8761581 7.876155 L 12.584774,13.944945 5.7638225,10.006866 12.584774,6.0687882 Z"
+     inkscape:connector-curvature="0"
+     inkscape:transform-center-y="0.00393575" />
+  <path
+     id="path840"
+     style="fill:none;fill-opacity:0.529412;stroke:#000000;stroke-width:0.999995;stroke-linecap:round;stroke-linejoin:round"
+     inkscape:transform-center-x="-2.8310241"
+     d="M 10,7.5609582 V 4.6321656 L 5.3496238,7.3168917 0.6966252,10.004242 5.3496238,12.688967 10,15.373693 V 12.452775 L 5.7642739,10.006866 Z"
+     inkscape:connector-curvature="0" />
+</svg>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="comment-5.svg"
+   inkscape:version="1.0beta2 (6465177, 2020-02-22)"
+   id="svg836"
+   version="1.1"
+   viewBox="0 0 20 20"
+   height="20"
+   width="20">
+  <title
+     id="title5097">comment2</title>
+  <defs
+     id="defs830" />
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="2728"
+     inkscape:window-height="1017"
+     inkscape:window-width="2560"
+     inkscape:guide-bbox="true"
+     showguides="true"
+     units="px"
+     showgrid="true"
+     inkscape:current-layer="svg836"
+     inkscape:document-units="px"
+     inkscape:cy="2.4530337"
+     inkscape:cx="21.037574"
+     inkscape:zoom="22.627417"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base">
+    <inkscape:grid
+       enabled="true"
+       id="grid1384"
+       type="xygrid" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide5089"
+       orientation="0,1"
+       position="3,19" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide5091"
+       orientation="0,1"
+       position="7,1" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide5093"
+       orientation="1,0"
+       position="1,21" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide5095"
+       orientation="1,0"
+       position="19,20" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata833">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>comment2</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="path867"
+     style="fill:none;fill-opacity:0.529412;stroke:#000000;stroke-width:0.999994;stroke-linecap:round;stroke-linejoin:round"
+     d="m 3.210642,3.7262688 c -1.1122089,0 -2.0075973,1.0331406 -2.0075973,2.3164585 v 5.7911457 c 0,1.283318 0.8953884,2.316459 2.0075973,2.316459 h 1.5056979 v 4.632916 l 4.0151946,-4.632916 h 4.5170935 c 1.112209,0 2.007598,-1.033141 2.007598,-2.316459 V 6.0427273 c 0,-1.2833179 -0.895389,-2.3164585 -2.007598,-2.3164585 z"
+     inkscape:connector-curvature="0" />
+  <path
+     id="path838"
+     style="fill:none;fill-opacity:0.529412;stroke:#000000;stroke-width:0.999995;stroke-linecap:round;stroke-linejoin:round"
+     d="m 17,11.106265 c 1.055173,0 1.904643,-0.98016 1.904643,-2.1976657 V 3.4144375 C 18.904643,2.1969313 18.055173,1.2167726 17,1.2167726 H 7.4767862 v 0 c -0.7351997,0 -1.3705371,0.4758393 -1.6882533,1.1762575"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cssscsc" />
+</svg>

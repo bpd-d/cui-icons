@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="20"
+   height="20"
+   viewBox="0 0 20 20"
+   version="1.1"
+   id="svg836"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="social-google.svg">
+  <title
+     id="title5097">base</title>
+  <defs
+     id="defs830" />
+  <sodipodi:namedview
+     inkscape:snap-global="false"
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="23"
+     inkscape:cx="14.399179"
+     inkscape:cy="15.162069"
+     inkscape:document-units="px"
+     inkscape:current-layer="g985"
+     showgrid="true"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="2560"
+     inkscape:window-height="1017"
+     inkscape:window-x="2728"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1384"
+       enabled="true" />
+    <sodipodi:guide
+       position="3,19"
+       orientation="0,1"
+       id="guide5089"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="7,1"
+       orientation="0,1"
+       id="guide5091"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1,21"
+       orientation="1,0"
+       id="guide5093"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="19,20"
+       orientation="1,0"
+       id="guide5095"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata833">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>base</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     style="stroke-width:3.4717"
+     transform="matrix(0.28804348,0,0,0.28804348,-159.73913,-73.652175)"
+     id="g985">
+    <g
+       transform="matrix(0.18408847,0,0,0.18361677,441.78869,226.8883)"
+       style="fill:none;stroke:#000000;stroke-width:18.8831;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="g925">
+	<g
+   transform="translate(641.20755,89.35849)"
+   style="fill:none;stroke:#000000;stroke-width:18.8831;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="g923">
+		<path
+   style="fill:none;stroke:#000000;stroke-width:18.8831;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   d="m 160,224 v 64 h 90.528 c -13.216,37.248 -48.8,64 -90.528,64 -52.928,0 -96,-43.072 -96,-96 0,-52.928 43.072,-96 96,-96 22.944,0 45.024,8.224 62.176,23.168 l 42.048,-48.256 C 235.424,109.824 198.432,96 160,96 71.776,96 0,167.776 0,256 c 0,88.224 71.776,160 160,160 88.224,0 160,-71.776 160,-160 v -32 z"
+   id="path921" />
+
+	</g>
+
+</g>
+    <g
+       style="stroke-width:3.4717"
+       id="g927">
+</g>
+    <g
+       style="stroke-width:3.4717"
+       id="g929">
+</g>
+    <g
+       style="stroke-width:3.4717"
+       id="g931">
+</g>
+    <g
+       style="stroke-width:3.4717"
+       id="g933">
+</g>
+    <g
+       style="stroke-width:3.4717"
+       id="g935">
+</g>
+    <g
+       style="stroke-width:3.4717"
+       id="g937">
+</g>
+    <g
+       style="stroke-width:3.4717"
+       id="g939">
+</g>
+    <g
+       style="stroke-width:3.4717"
+       id="g941">
+</g>
+    <g
+       style="stroke-width:3.4717"
+       id="g943">
+</g>
+    <g
+       style="stroke-width:3.4717"
+       id="g945">
+</g>
+    <g
+       style="stroke-width:3.4717"
+       id="g947">
+</g>
+    <g
+       style="stroke-width:3.4717"
+       id="g949">
+</g>
+    <g
+       style="stroke-width:3.4717"
+       id="g951">
+</g>
+    <g
+       style="stroke-width:3.4717"
+       id="g953">
+</g>
+    <g
+       style="stroke-width:3.4717"
+       id="g955">
+</g>
+  </g>
+</svg>
