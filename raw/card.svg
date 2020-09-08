@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="trash.svg"
+   sodipodi:docname="card.svg"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    id="svg836"
    version="1.1"
@@ -21,19 +21,19 @@
   <sodipodi:namedview
      inkscape:document-rotation="0"
      inkscape:window-maximized="1"
-     inkscape:window-y="-8"
-     inkscape:window-x="2728"
-     inkscape:window-height="1017"
-     inkscape:window-width="2560"
+     inkscape:window-y="-6"
+     inkscape:window-x="-6"
+     inkscape:window-height="850"
+     inkscape:window-width="1368"
      inkscape:guide-bbox="true"
      showguides="true"
      units="px"
      showgrid="true"
      inkscape:current-layer="svg836"
      inkscape:document-units="px"
-     inkscape:cy="9.9951619"
-     inkscape:cx="21.695849"
-     inkscape:zoom="23"
+     inkscape:cy="7.6976824"
+     inkscape:cx="9.6000889"
+     inkscape:zoom="11.5"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -78,27 +78,19 @@
     </rdf:RDF>
   </metadata>
   <path
-     d="M 3.9999998,3.9999995 H 15.999999 V 19.033332 H 3.9999998 Z"
+     d="M 3,2 H 17 V 18 H 3 Z"
+     style="fill:none;fill-opacity:0.529412;stroke:#000000;stroke-width:0.999984;stroke-linecap:round;stroke-linejoin:round"
+     id="rect835" />
+  <path
+     d="M 5,4 H 15 V 9.0000005 H 5 Z"
+     style="fill:none;stroke:#000000;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round"
+     id="rect852" />
+  <path
+     d="m 5,11 h 4.0000005 v 5 H 5 Z"
      style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
-     id="rect836" />
+     id="rect856" />
   <path
-     inkscape:connector-curvature="0"
-     id="path838"
-     d="M 1.9999994,3.9999998 H 18"
-     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-  <path
-     inkscape:connector-curvature="0"
-     id="path840"
-     d="M 8,8.1666667 V 15"
-     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-  <path
-     inkscape:connector-curvature="0"
-     id="path842"
-     d="M 12,8.1666667 V 15"
-     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-  <path
-     inkscape:connector-curvature="0"
-     id="path846"
-     d="M 4.9999988,4.0000001 V 1.2666667 H 15 v 2.7333334"
-     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+     d="m 11,11 h 4 v 5 h -4 z"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     id="rect847" />
 </svg>
