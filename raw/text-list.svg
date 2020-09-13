@@ -8,7 +8,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="text-list.svg"
-   inkscape:version="1.0beta2 (6465177, 2020-02-22)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    id="svg836"
    version="1.1"
    viewBox="0 0 20 20"
@@ -82,29 +82,29 @@
   </metadata>
   <path
      style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 7.559591,3.5904155 h 11.94041"
+     d="M 7.5209523,3.5904155 H 18.538639"
      id="path859"
      inkscape:connector-curvature="0" />
   <path
      style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 7.559591,10 h 11.94041"
+     d="M 7.5209523,10 H 18.538639"
      id="path863"
      inkscape:connector-curvature="0" />
   <path
      style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 7.5595889,16.409584 H 19.499999"
+     d="M 7.5209503,16.409584 H 18.538639"
      id="path867"
      inkscape:connector-curvature="0" />
   <path
-     d="M 4.5,3.5904152 A 1.9189944,1.9228755 0 0 1 2.5810056,5.5132908 1.9189944,1.9228755 0 0 1 0.66201115,3.5904152 1.9189944,1.9228755 0 0 1 2.5810056,1.6675397 1.9189944,1.9228755 0 0 1 4.5,3.5904152"
+     d="M 5,3.5904152 A 1.9189944,1.9228755 0 0 1 3.0810056,5.5132908 1.9189944,1.9228755 0 0 1 1.1620112,3.5904152 1.9189944,1.9228755 0 0 1 3.0810056,1.6675397 1.9189944,1.9228755 0 0 1 5,3.5904152"
      style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
      id="path845" />
   <path
-     d="M 4.5,10 A 1.9189944,1.9228755 0 0 1 2.5810056,11.922876 1.9189944,1.9228755 0 0 1 0.66201115,10 1.9189944,1.9228755 0 0 1 2.5810056,8.0771245 1.9189944,1.9228755 0 0 1 4.5,10"
+     d="M 5,10 A 1.9189944,1.9228755 0 0 1 3.0810056,11.922876 1.9189944,1.9228755 0 0 1 1.1620112,10 1.9189944,1.9228755 0 0 1 3.0810056,8.0771245 1.9189944,1.9228755 0 0 1 5,10"
      style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
      id="circle845" />
   <path
-     d="M 4.5,16.409586 A 1.9189944,1.9228755 0 0 1 2.5810056,18.332461 1.9189944,1.9228755 0 0 1 0.66201115,16.409586 1.9189944,1.9228755 0 0 1 2.5810056,14.48671 1.9189944,1.9228755 0 0 1 4.5,16.409586"
+     d="M 5,16.409586 A 1.9189944,1.9228755 0 0 1 3.0810056,18.332461 1.9189944,1.9228755 0 0 1 1.1620112,16.409586 1.9189944,1.9228755 0 0 1 3.0810056,14.48671 1.9189944,1.9228755 0 0 1 5,16.409586"
      style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
      id="circle847" />
 </svg>

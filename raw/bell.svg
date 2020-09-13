@@ -12,7 +12,7 @@
    viewBox="0 0 20 20"
    version="1.1"
    id="svg836"
-   inkscape:version="1.0beta2 (6465177, 2020-02-22)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="bell.svg">
   <title
      id="title5097">base</title>
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="15.999999"
-     inkscape:cx="17.197377"
-     inkscape:cy="2.7541002"
+     inkscape:zoom="45.254831"
+     inkscape:cx="6.0611931"
+     inkscape:cy="16.049323"
      inkscape:document-units="px"
      inkscape:current-layer="svg836"
      showgrid="true"
@@ -89,6 +89,6 @@
   <path
      id="path846"
      style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
-     d="m 11.772728,17.189656 v 0 A 1.7727282,1.8103454 0 0 1 9.9999997,19.000002 1.7727282,1.8103454 0 0 1 8.2272715,17.189656"
+     d="m 11.772728,16.689654 v 0 A 1.7727282,1.8103454 0 0 1 10,18.5 1.7727282,1.8103454 0 0 1 8.2272718,16.689654"
      inkscape:connector-curvature="0" />
 </svg>

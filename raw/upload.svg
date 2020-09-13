@@ -8,7 +8,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="upload.svg"
-   inkscape:version="1.0beta2 (6465177, 2020-02-22)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    id="svg836"
    version="1.1"
    viewBox="0 0 20 20"
@@ -31,9 +31,9 @@
      showgrid="true"
      inkscape:current-layer="svg836"
      inkscape:document-units="px"
-     inkscape:cy="11.188321"
-     inkscape:cx="6.4874852"
-     inkscape:zoom="16.263456"
+     inkscape:cy="4.6053775"
+     inkscape:cx="10.364097"
+     inkscape:zoom="65.053824"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -85,7 +85,7 @@
   <path
      inkscape:connector-curvature="0"
      id="path838"
-     d="M 15,1.2499998 H 5"
+     d="M 15,2 H 5"
      style="fill:none;stroke:#000000;stroke-width:0.999996px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
   <path
      inkscape:connector-curvature="0"

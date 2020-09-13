@@ -8,7 +8,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="volume-down.svg"
-   inkscape:version="1.0beta2 (6465177, 2020-02-22)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    id="svg836"
    version="1.1"
    viewBox="0 0 20 20"
@@ -83,8 +83,8 @@
   <path
      inkscape:connector-curvature="0"
      id="path920"
-     d="M 11.285719,18.999994 V 1.0000061 L 5.7142942,6.1428597 H 1.0000122 V 13.85714 h 4.714282 z"
-     style="fill:none;stroke:#000000;stroke-width:0.999998px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     d="M 11.571425,18 V 2 L 6,6.5714285 H 1.285718 V 13.428571 H 6 Z"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
      sodipodi:nodetypes="ccccccc" />
   <path
      style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"

@@ -7,8 +7,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="album_2.svg"
-   inkscape:version="1.0beta2 (6465177, 2020-02-22)"
+   sodipodi:docname="album.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    id="svg836"
    version="1.1"
    viewBox="0 0 20 20"
@@ -35,9 +35,9 @@
      showgrid="true"
      inkscape:current-layer="svg836"
      inkscape:document-units="px"
-     inkscape:cy="6.2686452"
-     inkscape:cx="26.46206"
-     inkscape:zoom="22.627418"
+     inkscape:cy="7.9404725"
+     inkscape:cx="15.164799"
+     inkscape:zoom="32.000001"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -81,13 +81,10 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <rect
-     y="7.4921875"
-     x="1.484375"
-     height="9.999999"
-     width="17.03125"
+  <path
      id="rect875"
-     style="fill:none;stroke:#000000;stroke-width:0.999992;stroke-linecap:round;stroke-linejoin:round" />
+     style="fill:none;stroke:#000000;stroke-width:0.999992;stroke-linecap:round;stroke-linejoin:round"
+     d="m 1.484375,7.4921875 h 17.03125 V 17.492187 H 1.484375 Z" />
   <path
      inkscape:connector-curvature="0"
      id="path883"

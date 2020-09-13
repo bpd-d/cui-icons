@@ -8,7 +8,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="comment.svg"
-   inkscape:version="1.0beta2 (6465177, 2020-02-22)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    id="svg836"
    version="1.1"
    viewBox="0 0 20 20"
@@ -81,8 +81,8 @@
     </rdf:RDF>
   </metadata>
   <path
-     d="m 3.2142856,0.50001492 c -1.5037145,0 -2.71428598,1.30369258 -2.71428598,2.92307738 v 7.3076927 c 0,1.619386 1.21057148,2.923077 2.71428598,2.923077 H 5.25 v 5.846157 l 5.428571,-5.846157 h 6.107144 c 1.503714,0 2.714286,-1.303691 2.714286,-2.923077 V 3.4230923 c 0,-1.6193848 -1.210572,-2.92307738 -2.714286,-2.92307738 z"
-     style="fill:none;fill-opacity:0.529412;stroke:#000000;stroke-width:0.999992;stroke-linecap:round;stroke-linejoin:round"
+     d="m 3.928559,1.499994 c -1.3454315,0 -2.4285766,1.1664641 -2.4285766,2.6153902 v 6.5384748 c 0,1.448928 1.0831451,2.61539 2.4285766,2.61539 h 1.8214324 v 5.230783 l 4.8571526,-5.230783 h 5.464298 c 1.345431,0 2.428576,-1.166462 2.428576,-2.61539 V 4.1153842 c 0,-1.4489261 -1.083145,-2.6153902 -2.428576,-2.6153902 z"
+     style="fill:none;fill-opacity:0.529412;stroke:#000000;stroke-width:0.999996;stroke-linecap:round;stroke-linejoin:round"
      id="rect835"
      inkscape:connector-curvature="0" />
 </svg>

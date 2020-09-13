@@ -12,7 +12,7 @@
    viewBox="0 0 20 20"
    version="1.1"
    id="svg836"
-   inkscape:version="1.0beta2 (6465177, 2020-02-22)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="checkmark.svg">
   <title
      id="title5097">base</title>
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8.131728"
-     inkscape:cx="0.50976984"
-     inkscape:cy="-10.556298"
+     inkscape:zoom="16.263456"
+     inkscape:cx="15.714553"
+     inkscape:cy="-0.13341595"
      inkscape:document-units="px"
      inkscape:current-layer="svg836"
      showgrid="true"
@@ -79,7 +79,7 @@
   </metadata>
   <path
      style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-     d="M 19,1.0000052 8.7142858,19.000005 1,10.000005"
+     d="M 18.000003,2 8.8571425,18.000006 1.9999968,10.000003"
      id="path836"
      inkscape:connector-curvature="0" />
 </svg>

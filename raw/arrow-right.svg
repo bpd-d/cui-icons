@@ -12,7 +12,7 @@
    viewBox="0 0 20 20"
    version="1.1"
    id="svg836"
-   inkscape:version="1.0beta2 (6465177, 2020-02-22)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="arrow-right.svg">
   <title
      id="title5097">base</title>
@@ -78,18 +78,7 @@
     </rdf:RDF>
   </metadata>
   <path
-     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-     d="M 0.99999995,10 H 19"
-     id="path836"
-     inkscape:connector-curvature="0" />
-  <path
-     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-     d="M 19,10 8.5,2.5"
-     id="path840"
-     inkscape:connector-curvature="0" />
-  <path
-     inkscape:connector-curvature="0"
      id="path842"
-     d="M 19,10 8.5,17.5"
-     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     d="M 19,10 8.5,17.5 M 19,10 8.5,2.5 M 0.99999995,10 H 19" />
 </svg>

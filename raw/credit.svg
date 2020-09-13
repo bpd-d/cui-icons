@@ -8,7 +8,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="credit.svg"
-   inkscape:version="1.0beta2 (6465177, 2020-02-22)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    id="svg836"
    version="1.1"
    viewBox="0 0 20 20"
@@ -31,9 +31,9 @@
      showgrid="true"
      inkscape:current-layer="svg836"
      inkscape:document-units="px"
-     inkscape:cy="9.808949"
-     inkscape:cx="18.663687"
-     inkscape:zoom="16.263456"
+     inkscape:cy="10.125614"
+     inkscape:cx="18.513409"
+     inkscape:zoom="32.526912"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -77,26 +77,13 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <rect
-     style="fill:none;fill-opacity:0.529412;stroke:#000000;stroke-width:0.999995;stroke-linecap:round;stroke-linejoin:round"
-     id="rect835"
-     width="18.000568"
-     height="14"
-     x="0.99971545"
-     y="3" />
   <path
-     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="M 0.9997142,6.1427346 H 19.000286"
-     id="path837"
-     inkscape:connector-curvature="0" />
-  <path
-     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="M 0.9997142,8.7142448 H 19.000286"
      id="path839"
-     inkscape:connector-curvature="0" />
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 2.0000002,8.7142448 H 18 M 2.0000002,6.1427346 H 18 M 1.9999996,3 H 18 V 17 H 1.9999996 Z" />
   <path
      style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-     d="M 3.5712244,13.857265 H 8.7142448"
+     d="m 5,13.857265 h 5.14302"
      id="path841"
      inkscape:connector-curvature="0" />
 </svg>

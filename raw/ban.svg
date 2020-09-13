@@ -12,7 +12,7 @@
    viewBox="0 0 20 20"
    version="1.1"
    id="svg836"
-   inkscape:version="1.0beta2 (6465177, 2020-02-22)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="ban.svg">
   <title
      id="title5097">ban</title>
@@ -79,12 +79,12 @@
   </metadata>
   <path
      id="path836"
-     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
-     d="M 19.373914,10 A 9.3739131,9.3739131 0 0 1 10,19.373914 9.3739131,9.3739131 0 0 1 0.62608733,10 9.3739131,9.3739131 0 0 1 10,0.62608733 9.3739131,9.3739131 0 0 1 19.373914,10 Z"
+     style="fill:none;stroke:#000000;stroke-width:0.999997;stroke-linecap:round;stroke-linejoin:round"
+     d="M 19,10 A 8.9999991,8.7652175 0 0 1 10,18.765218 8.9999991,8.7652175 0 0 1 1.0000013,10 8.9999991,8.7652175 0 0 1 10,1.234783 8.9999991,8.7652175 0 0 1 19,10 Z"
      inkscape:connector-curvature="0" />
   <path
      inkscape:connector-curvature="0"
      id="path865"
-     d="M 17.000001,3.0000002 3.0000002,17.000001"
+     d="M 15,5 5.0000012,15.000001"
      style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
 </svg>

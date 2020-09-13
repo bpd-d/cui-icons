@@ -8,7 +8,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="window.svg"
-   inkscape:version="1.0beta2 (6465177, 2020-02-22)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    id="svg836"
    version="1.1"
    viewBox="0 0 20 20"
@@ -78,15 +78,15 @@
     </rdf:RDF>
   </metadata>
   <rect
-     style="fill:none;stroke:#000000;stroke-width:0.999996;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
      id="rect1380"
      width="15.428572"
-     height="18"
+     height="16"
      x="2.2857144"
-     y="1" />
+     y="2" />
   <path
      style="fill:none;stroke:#000000;stroke-width:0.999996px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="M 2.2857143,6.1428572 H 17.714286"
+     d="M 2.5714283,7 H 18"
      id="path1382"
      inkscape:connector-curvature="0" />
 </svg>

@@ -12,7 +12,7 @@
    viewBox="0 0 20 20"
    version="1.1"
    id="svg836"
-   inkscape:version="1.0beta2 (6465177, 2020-02-22)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="wireless.svg">
   <title
      id="title5097">base</title>
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.065864"
-     inkscape:cx="-34.104404"
-     inkscape:cy="-7.0676058"
+     inkscape:zoom="32.526912"
+     inkscape:cx="11.196618"
+     inkscape:cy="8.8876501"
      inkscape:document-units="px"
      inkscape:current-layer="svg836"
      showgrid="true"
@@ -83,8 +83,8 @@
   <circle
      style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
      id="path836"
-     cx="-4.9095798"
-     cy="19.060266"
+     cx="-4.4330978"
+     cy="18.583784"
      r="2.2162845"
      transform="matrix(0.70667965,-0.70753365,0.70667965,0.70753365,0,0)" />
   <path

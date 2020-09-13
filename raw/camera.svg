@@ -8,7 +8,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="camera.svg"
-   inkscape:version="1.0beta2 (6465177, 2020-02-22)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    id="svg836"
    version="1.1"
    viewBox="0 0 20 20"
@@ -31,9 +31,9 @@
      showgrid="true"
      inkscape:current-layer="svg836"
      inkscape:document-units="px"
-     inkscape:cy="13.683002"
-     inkscape:cx="12.603176"
-     inkscape:zoom="8.131728"
+     inkscape:cy="6.1511496"
+     inkscape:cx="25.235499"
+     inkscape:zoom="23"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -78,11 +78,11 @@
     </rdf:RDF>
   </metadata>
   <rect
-     style="fill:none;fill-opacity:0.529412;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:none;fill-opacity:0.529412;stroke:#000000;stroke-width:0.999997;stroke-linecap:round;stroke-linejoin:round"
      id="rect835"
-     width="18.666666"
+     width="16.000002"
      height="12"
-     x="0.66666663"
+     x="1.9999988"
      y="5.833333" />
   <circle
      style="fill:none;fill-opacity:0.529412;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
@@ -95,6 +95,6 @@
      id="rect839"
      width="5.333333"
      height="2.6666665"
-     x="12.666666"
+     x="10.666666"
      y="3.1666663" />
 </svg>

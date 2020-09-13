@@ -8,7 +8,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="volume-muted.svg"
-   inkscape:version="1.0beta2 (6465177, 2020-02-22)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    id="svg836"
    version="1.1"
    viewBox="0 0 20 20"
@@ -83,8 +83,8 @@
   <path
      inkscape:connector-curvature="0"
      id="path920"
-     d="M 11.303461,18.979295 V 1.0207042 l -5.5586125,5.131026 h -4.70344 v 7.6965388 h 4.70344 z"
-     style="fill:none;stroke:#000000;stroke-width:0.999998px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     d="M 11.558613,17.999999 V 2 L 6,6.5714284 H 1.29656 V 13.428571 H 6 Z"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
      sodipodi:nodetypes="ccccccc" />
   <path
      style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"

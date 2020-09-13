@@ -12,7 +12,7 @@
    viewBox="0 0 20 20"
    version="1.1"
    id="svg836"
-   inkscape:version="1.0beta2 (6465177, 2020-02-22)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="user.svg">
   <title
      id="title5097">base</title>
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16.263456"
-     inkscape:cx="9.0152808"
-     inkscape:cy="12.964423"
+     inkscape:zoom="23"
+     inkscape:cx="9.832549"
+     inkscape:cy="10.255559"
      inkscape:document-units="px"
      inkscape:current-layer="svg836"
      showgrid="true"
@@ -77,15 +77,13 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <circle
-     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+  <path
      id="path838"
-     cx="10.000017"
-     cy="5.0397663"
-     r="4.4191341" />
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     d="M 14,6 A 3.9999831,3.9999831 0 0 1 10.000017,9.9999831 3.9999831,3.9999831 0 0 1 6.000034,6 3.9999831,3.9999831 0 0 1 10.000017,2.0000169 3.9999831,3.9999831 0 0 1 14,6 Z" />
   <path
      inkscape:connector-curvature="0"
      id="path845"
      style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
-     d="M 0.99987016,18.901417 A 9.2324903,9.2324903 0 0 1 10.000017,11.727137 9.2324903,9.2324903 0 0 1 19,18.900699" />
+     d="M 1.9998702,18.901417 A 8.2066654,9.2324903 0 0 1 10.000008,11.727137 8.2066654,9.2324903 0 0 1 18,18.900699" />
 </svg>

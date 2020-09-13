@@ -12,7 +12,7 @@
    viewBox="0 0 20 20"
    version="1.1"
    id="svg836"
-   inkscape:version="1.0beta2 (6465177, 2020-02-22)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="calendar_3.svg">
   <title
      id="title5097">base</title>
@@ -30,9 +30,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16"
-     inkscape:cx="16.305948"
-     inkscape:cy="-0.81066221"
+     inkscape:zoom="64"
+     inkscape:cx="11.092229"
+     inkscape:cy="11.652292"
      inkscape:document-units="px"
      inkscape:current-layer="svg836"
      showgrid="true"
@@ -100,6 +100,6 @@
      id="rect848"
      width="6.0068598"
      height="5.9849048"
-     x="3.4919004"
-     y="10.511134" />
+     x="3.4762754"
+     y="10.495509" />
 </svg>

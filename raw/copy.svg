@@ -12,7 +12,7 @@
    viewBox="0 0 20 20"
    version="1.1"
    id="svg836"
-   inkscape:version="1.0beta2 (6465177, 2020-02-22)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="copy.svg">
   <title
      id="title5097">base</title>
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.5"
-     inkscape:cx="-3.8440368"
-     inkscape:cy="8.492079"
+     inkscape:zoom="23"
+     inkscape:cx="11.801057"
+     inkscape:cy="8.1180358"
      inkscape:document-units="px"
      inkscape:current-layer="svg836"
      showgrid="true"
@@ -79,17 +79,17 @@
   </metadata>
   <path
      id="rect836"
-     style="fill:none;stroke:#000000;stroke-width:0.999998;stroke-linecap:round;stroke-linejoin:round"
-     d="M 3.0000002,3.1818184 V 19.545455 H 15.272728 V 7.2727276 L 11.181819,3.1818184 Z"
+     style="fill:none;stroke:#000000;stroke-width:0.999994;stroke-linecap:round;stroke-linejoin:round"
+     d="M 4.0000012,4.0909101 V 18.272726 H 14.636364 V 7.6363643 L 11.09091,4.0909101 Z"
      inkscape:connector-curvature="0" />
   <path
      id="path875"
-     style="fill:none;stroke:#000000;stroke-width:0.999998;stroke-linecap:round;stroke-linejoin:round"
-     d="m 15.272728,16.818182 h 2.727273 V 4.5454548 L 13.909091,0.4545456 H 5.727273 v 0 l -1e-7,2.7272728"
+     style="fill:none;stroke:#000000;stroke-width:0.999994;stroke-linecap:round;stroke-linejoin:round"
+     d="M 14.636364,15.90909 H 17 V 5.2727282 L 13.454545,1.7272741 H 6.3636373 v 0 l -10e-8,2.363636"
      inkscape:connector-curvature="0" />
   <path
      style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 11.181819,3.1818184 v 4.0909092 h 4.090909"
+     d="m 11.09091,4.0909101 v 3.5454542 h 3.545454"
      id="path882"
      inkscape:connector-curvature="0" />
 </svg>

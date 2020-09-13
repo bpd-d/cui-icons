@@ -12,7 +12,7 @@
    viewBox="0 0 20 20"
    version="1.1"
    id="svg836"
-   inkscape:version="1.0beta2 (6465177, 2020-02-22)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="ban-2.svg">
   <title
      id="title5097">ban</title>
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="23"
-     inkscape:cx="8.5128205"
-     inkscape:cy="7.9511517"
+     inkscape:zoom="11.5"
+     inkscape:cx="2.6797825"
+     inkscape:cy="3.1639345"
      inkscape:document-units="px"
      inkscape:current-layer="svg836"
      showgrid="true"
@@ -80,16 +80,16 @@
   <path
      id="path836"
      style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
-     d="M 19.373913,10 A 9.3739128,9.3739128 0 0 1 10,19.373913 9.3739128,9.3739128 0 0 1 0.6260872,10 9.3739128,9.3739128 0 0 1 10,0.6260872 9.3739128,9.3739128 0 0 1 19.373913,10 Z"
+     d="M 19,10 A 8.9999998,8.9999998 0 0 1 10,19 8.9999998,8.9999998 0 0 1 1.0000002,10 8.9999998,8.9999998 0 0 1 10,1.0000002 8.9999998,8.9999998 0 0 1 19,10 Z"
      inkscape:connector-curvature="0" />
   <path
      style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="M 3,3 17,17"
+     d="M 5,5 15,15"
      id="path863"
      inkscape:connector-curvature="0" />
   <path
      inkscape:connector-curvature="0"
      id="path865"
-     d="M 17,3 3,17"
+     d="M 15,5 5,15"
      style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
 </svg>
