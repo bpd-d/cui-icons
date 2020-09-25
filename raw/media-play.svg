@@ -12,7 +12,7 @@
    viewBox="0 0 20 20"
    version="1.1"
    id="svg836"
-   inkscape:version="1.0beta2 (6465177, 2020-02-22)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="media-play.svg">
   <title
      id="title5097">play</title>
@@ -78,19 +78,9 @@
     </rdf:RDF>
   </metadata>
   <path
-     sodipodi:type="star"
-     style="fill:none;fill-opacity:0.529412;stroke:#000000;stroke-width:0.999996;stroke-linecap:round;stroke-linejoin:round"
      id="path836"
-     sodipodi:sides="3"
-     sodipodi:cx="7.3842268"
-     sodipodi:cy="9.999999"
-     sodipodi:r1="10.615773"
-     sodipodi:r2="5.3078866"
-     sodipodi:arg1="2.0943951"
-     sodipodi:arg2="3.1415927"
-     inkscape:flatsided="false"
-     inkscape:rounded="0"
-     inkscape:randomized="0"
+     style="fill:none;fill-opacity:0.529412;stroke:#000000;stroke-width:0.999996;stroke-linecap:round;stroke-linejoin:round"
+     inkscape:transform-center-x="-2.6539433"
      d="m 2.0763402,19.193528 0,-9.1935292 0,-9.19352901 L 10.03817,5.4032345 18,9.999999 10.03817,14.596764 Z"
-     inkscape:transform-center-x="-2.6539433" />
+     class="fill hover" />
 </svg>

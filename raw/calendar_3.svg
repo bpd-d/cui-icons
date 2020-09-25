@@ -30,9 +30,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="64"
-     inkscape:cx="11.092229"
-     inkscape:cy="11.652292"
+     inkscape:zoom="16"
+     inkscape:cx="8.8006958"
+     inkscape:cy="7.2150301"
      inkscape:document-units="px"
      inkscape:current-layer="svg836"
      showgrid="true"
@@ -82,24 +82,19 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <rect
-     y="1.5080996"
-     x="1.4611566"
-     height="17.081371"
-     width="17.046942"
+  <path
      id="rect835"
-     style="fill:none;fill-opacity:0.529412;stroke:#000000;stroke-width:0.999985;stroke-linecap:round;stroke-linejoin:round" />
+     style="fill:none;fill-opacity:0.529412;stroke:#000000;stroke-width:0.999985;stroke-linecap:round;stroke-linejoin:round"
+     d="M 1.4611566,1.5080996 H 18.508098 V 18.589471 H 1.4611566 Z" />
   <path
      sodipodi:nodetypes="cc"
      style="fill:none;stroke:#000000;stroke-width:0.999995px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="M 0.9997469,6.502006 H 18.999748"
      id="path836"
      inkscape:connector-curvature="0" />
-  <rect
-     style="fill:none;stroke:#000000;stroke-width:0.999995;stroke-linecap:round;stroke-linejoin:round"
+  <path
      id="rect848"
-     width="6.0068598"
-     height="5.9849048"
-     x="3.4762754"
-     y="10.495509" />
+     style="fill:none;stroke:#000000;stroke-width:0.999995;stroke-linecap:round;stroke-linejoin:round"
+     d="m 3.4762754,10.495509 h 6.0068598 v 5.984905 H 3.4762754 Z"
+     class="fill" />
 </svg>

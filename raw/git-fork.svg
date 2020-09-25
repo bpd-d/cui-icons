@@ -12,7 +12,7 @@
    viewBox="0 0 20 20"
    version="1.1"
    id="svg836"
-   inkscape:version="1.0beta2 (6465177, 2020-02-22)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="git-fork.svg">
   <title
      id="title5097">base</title>
@@ -77,24 +77,21 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <circle
-     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+  <path
      id="path838"
-     cx="10"
-     cy="16.274548"
-     r="1.875" />
-  <circle
-     r="1.875"
-     cy="3.7464604"
-     cx="4.9849224"
-     id="circle840"
-     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
-  <circle
      style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     d="m 11.875,16.274548 a 1.875,1.875 0 0 1 -1.875,1.875 1.875,1.875 0 0 1 -1.875,-1.875 1.875,1.875 0 0 1 1.875,-1.875 1.875,1.875 0 0 1 1.875,1.875 z"
+     class="fill" />
+  <path
+     id="circle840"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     d="m 6.8599224,3.7464604 a 1.875,1.875 0 0 1 -1.875,1.875 1.875,1.875 0 0 1 -1.875,-1.875 1.875,1.875 0 0 1 1.875,-1.875 1.875,1.875 0 0 1 1.875,1.875 z"
+     class="fill" />
+  <path
      id="circle842"
-     cx="15.015078"
-     cy="6.2192864"
-     r="1.875" />
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     d="m 16.890078,6.2192864 a 1.875,1.875 0 0 1 -1.875,1.875 1.875,1.875 0 0 1 -1.875,-1.875 1.875,1.875 0 0 1 1.875,-1.875 1.875,1.875 0 0 1 1.875,1.875 z"
+     class="fill" />
   <path
      id="path846"
      style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"

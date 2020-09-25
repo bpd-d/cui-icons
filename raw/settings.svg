@@ -8,7 +8,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="settings.svg"
-   inkscape:version="1.0beta2 (6465177, 2020-02-22)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    id="svg836"
    version="1.1"
    viewBox="0 0 20 20"
@@ -31,9 +31,9 @@
      showgrid="true"
      inkscape:current-layer="svg836"
      inkscape:document-units="px"
-     inkscape:cy="2.6718487"
-     inkscape:cx="-8.3385278"
-     inkscape:zoom="8.131728"
+     inkscape:cy="7.5720582"
+     inkscape:cx="13.584409"
+     inkscape:zoom="23"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -77,24 +77,21 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <circle
-     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+  <path
      id="path847"
-     cx="3.0562966"
-     cy="2.9890602"
-     r="2.0961123" />
-  <circle
-     r="2.0961123"
-     cy="9.9761009"
-     cx="16.908863"
-     id="circle849"
-     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
-  <circle
      style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     d="M 5.1524088,2.9890602 A 2.0961123,2.0961123 0 0 1 3.0562966,5.0851724 2.0961123,2.0961123 0 0 1 0.96018434,2.9890602 2.0961123,2.0961123 0 0 1 3.0562966,0.89294791 2.0961123,2.0961123 0 0 1 5.1524088,2.9890602 Z"
+     class="fill" />
+  <path
+     id="circle849"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     d="M 19.004975,9.9761009 A 2.0961123,2.0961123 0 0 1 16.908863,12.072213 2.0961123,2.0961123 0 0 1 14.812751,9.9761009 2.0961123,2.0961123 0 0 1 16.908863,7.8799887 2.0961123,2.0961123 0 0 1 19.004975,9.9761009 Z"
+     class="fill" />
+  <path
      id="circle851"
-     cx="3.0259171"
-     cy="16.978331"
-     r="2.0961123" />
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     d="M 5.1220293,16.978331 A 2.0961123,2.0961123 0 0 1 3.0259171,19.074443 2.0961123,2.0961123 0 0 1 0.9298048,16.978331 2.0961123,2.0961123 0 0 1 3.0259171,14.882218 2.0961123,2.0961123 0 0 1 5.1220293,16.978331 Z"
+     class="fill" />
   <path
      style="fill:none;stroke:#000000;stroke-width:0.999999px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
      d="M 3.025918,10.006479 H 14.205183"

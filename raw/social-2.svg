@@ -8,7 +8,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="social-2.svg"
-   inkscape:version="1.0beta2 (6465177, 2020-02-22)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    id="svg836"
    version="1.1"
    viewBox="0 0 20 20"
@@ -80,27 +80,21 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <ellipse
-     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+  <path
      id="path847"
-     cx="4.3204284"
-     cy="4.3327518"
-     rx="2.8204286"
-     ry="2.8327515" />
-  <ellipse
-     ry="2.8327515"
-     rx="2.8327513"
-     cy="15.649972"
-     cx="4.3327513"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     d="M 7.140857,4.3327518 A 2.8204286,2.8327515 0 0 1 4.3204284,7.1655033 2.8204286,2.8327515 0 0 1 1.4999998,4.3327518 2.8204286,2.8327515 0 0 1 4.3204284,1.5000002 2.8204286,2.8327515 0 0 1 7.140857,4.3327518 Z"
+     class="fill" />
+  <path
      id="ellipse867"
-     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
-  <ellipse
-     ry="2.8327515"
-     rx="2.8204286"
-     cy="9.9783134"
-     cx="15.662292"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     d="M 7.1655025,15.649972 A 2.8327513,2.8327515 0 0 1 4.3327513,18.482723 2.8327513,2.8327515 0 0 1 1.5,15.649972 2.8327513,2.8327515 0 0 1 4.3327513,12.81722 2.8327513,2.8327515 0 0 1 7.1655025,15.649972 Z"
+     class="fill" />
+  <path
      id="ellipse869"
-     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     d="M 18.48272,9.9783134 A 2.8204286,2.8327515 0 0 1 15.662292,12.811065 2.8204286,2.8327515 0 0 1 12.841863,9.9783134 2.8204286,2.8327515 0 0 1 15.662292,7.1455619 2.8204286,2.8327515 0 0 1 18.48272,9.9783134 Z"
+     class="fill" />
   <path
      style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="M 6.6001128,14.535878 13.402198,11.134836"

@@ -31,9 +31,9 @@
      showgrid="true"
      inkscape:current-layer="svg836"
      inkscape:document-units="px"
-     inkscape:cy="-7.8512083"
-     inkscape:cx="11.989302"
-     inkscape:zoom="8.131728"
+     inkscape:cy="5.1668201"
+     inkscape:cx="13.890033"
+     inkscape:zoom="16.263456"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -101,5 +101,6 @@
      inkscape:connector-curvature="0"
      id="path846"
      d="M 5.9999987,4.0000001 V 1.8133333 H 14 v 2.1866668"
-     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     class="fill" />
 </svg>

@@ -8,7 +8,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="network.svg"
-   inkscape:version="1.0beta2 (6465177, 2020-02-22)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    id="svg836"
    version="1.1"
    viewBox="0 0 20 20"
@@ -31,7 +31,7 @@
      showgrid="true"
      inkscape:current-layer="svg836"
      inkscape:document-units="px"
-     inkscape:cy="20.026176"
+     inkscape:cy="10.188169"
      inkscape:cx="19.581691"
      inkscape:zoom="16.263456"
      inkscape:pageshadow="2"
@@ -77,34 +77,26 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <rect
-     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+  <path
      id="rect875"
-     width="4.5714283"
-     height="4.5714283"
-     x="7.7142854"
-     y="1.9999999" />
-  <rect
-     y="13.428571"
-     x="7.7142854"
-     height="4.5714283"
-     width="4.5714283"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     d="M 7.7142854,1.9999999 H 12.285714 V 6.5714282 H 7.7142854 Z"
+     class="fill" />
+  <path
      id="rect877"
-     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
-  <rect
      style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     d="m 7.7142854,13.428571 h 4.5714286 v 4.571428 H 7.7142854 Z"
+     class="fill" />
+  <path
      id="rect879"
-     width="4.5714283"
-     height="4.5714283"
-     x="0.85714281"
-     y="13.428571" />
-  <rect
      style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     d="M 0.85714281,13.428571 H 5.4285711 v 4.571428 H 0.85714281 Z"
+     class="fill" />
+  <path
      id="rect881"
-     width="4.5714283"
-     height="4.5714283"
-     x="14.571428"
-     y="13.428571" />
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     d="m 14.571428,13.428571 h 4.571429 v 4.571428 h -4.571429 z"
+     class="fill" />
   <path
      style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
      d="M 9.9999996,6.5714283 V 13.428571"

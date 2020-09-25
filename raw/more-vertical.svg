@@ -8,7 +8,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="more-vertical.svg"
-   inkscape:version="1.0beta2 (6465177, 2020-02-22)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    id="svg836"
    version="1.1"
    viewBox="0 0 20 20"
@@ -77,25 +77,19 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <ellipse
-     ry="2.0250089"
-     rx="2.1500113"
-     cy="3.2717092"
-     cx="10"
+  <path
      id="path836"
-     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
-  <ellipse
-     ry="2.0250089"
-     rx="2.1500113"
      style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     d="M 12.150011,3.2717092 A 2.1500113,2.0250089 0 0 1 10,5.2967181 2.1500113,2.0250089 0 0 1 7.8499887,3.2717092 2.1500113,2.0250089 0 0 1 10,1.2467003 2.1500113,2.0250089 0 0 1 12.150011,3.2717092 Z"
+     class="fill" />
+  <path
      id="circle842"
-     cx="10"
-     cy="9.9923906" />
-  <ellipse
-     ry="2.0250089"
-     rx="2.1500113"
-     cy="16.771769"
-     cx="10"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     d="M 12.150011,9.9923906 A 2.1500113,2.0250089 0 0 1 10,12.0174 2.1500113,2.0250089 0 0 1 7.8499887,9.9923906 2.1500113,2.0250089 0 0 1 10,7.9673817 2.1500113,2.0250089 0 0 1 12.150011,9.9923906 Z"
+     class="fill hover" />
+  <path
      id="circle844"
-     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     d="M 12.150011,16.771769 A 2.1500113,2.0250089 0 0 1 10,18.796777 2.1500113,2.0250089 0 0 1 7.8499887,16.771769 2.1500113,2.0250089 0 0 1 10,14.74676 a 2.1500113,2.0250089 0 0 1 2.150011,2.025009 z"
+     class="fill" />
 </svg>

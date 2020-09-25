@@ -12,7 +12,7 @@
    viewBox="0 0 20 20"
    version="1.1"
    id="svg836"
-   inkscape:version="1.0beta2 (6465177, 2020-02-22)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="pencil.svg">
   <title
      id="title5097">base</title>
@@ -82,5 +82,6 @@
      style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
      d="M 18.000001,1.5084167 C 18.451,1.9594155 18.507684,2.6768591 16.994965,4.189577 L 6.0728161,15.111727 c -1.5127177,1.512718 -5.1049223,3.476766 -5.1049223,3.476766 0,0 1.9640487,-3.592205 3.4767664,-5.104922 L 15.36681,2.561421 c 1.512718,-1.5127178 2.182191,-1.5040037 2.633191,-1.0530043 z"
      inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ssscsss" />
+     sodipodi:nodetypes="ssscsss"
+     class="fill" />
 </svg>

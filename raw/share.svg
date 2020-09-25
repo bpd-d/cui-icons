@@ -12,7 +12,7 @@
    viewBox="0 0 20 20"
    version="1.1"
    id="svg836"
-   inkscape:version="1.0beta2 (6465177, 2020-02-22)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="share.svg">
   <title
      id="title5097">base</title>
@@ -77,12 +77,11 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <circle
-     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+  <path
      id="path836"
-     cx="10"
-     cy="10"
-     r="2.6151471" />
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     d="M 12.615147,10 A 2.6151471,2.6151471 0 0 1 10,12.615147 2.6151471,2.6151471 0 0 1 7.3848529,10 2.6151471,2.6151471 0 0 1 10,7.3848529 2.6151471,2.6151471 0 0 1 12.615147,10 Z"
+     class="fill" />
   <path
      inkscape:connector-curvature="0"
      id="path944"

@@ -12,7 +12,7 @@
    viewBox="0 0 20 20"
    version="1.1"
    id="svg836"
-   inkscape:version="1.0beta2 (6465177, 2020-02-22)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="share-2.svg">
   <title
      id="title5097">base</title>
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="65.053824"
-     inkscape:cx="9.197435"
-     inkscape:cy="10.820402"
+     inkscape:zoom="32.526912"
+     inkscape:cx="6.2926303"
+     inkscape:cy="10.294954"
      inkscape:document-units="px"
      inkscape:current-layer="svg836"
      showgrid="true"
@@ -80,12 +80,11 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <circle
-     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+  <path
      id="path836"
-     cx="10"
-     cy="10"
-     r="2.268055" />
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     d="M 12.268055,10 A 2.268055,2.268055 0 0 1 10,12.268055 2.268055,2.268055 0 0 1 7.731945,10 2.268055,2.268055 0 0 1 10,7.731945 2.268055,2.268055 0 0 1 12.268055,10 Z"
+     class="fill" />
   <path
      inkscape:connector-curvature="0"
      id="circle838"

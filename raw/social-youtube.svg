@@ -12,7 +12,7 @@
    viewBox="0 0 20 20"
    version="1.1"
    id="svg836"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="social-youtube.svg">
   <title
      id="title5097">base</title>
@@ -78,17 +78,13 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <rect
-     rx="2.9610095"
-     ry="4.3310294"
-     y="4.475636"
-     x="1.907932"
-     height="11.031539"
-     width="15.909903"
+  <path
      id="rect995"
-     style="opacity:0.997;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.999998;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+     style="opacity:0.997;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.999998;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 4.8689415,4.475636 h 9.9878835 c 1.640399,0 2.96101,1.9316391 2.96101,4.3310294 v 2.3694806 c 0,2.39939 -1.320611,4.331029 -2.96101,4.331029 H 4.8689415 c -1.6403992,0 -2.9610095,-1.931639 -2.9610095,-4.331029 V 8.8066654 c 0,-2.3993903 1.3206103,-4.3310294 2.9610095,-4.3310294 z" />
   <path
      id="path997"
      d="m 8,7 -0.03125,6.0625 5.0625,-3.09375 z"
-     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     class="fill" />
 </svg>

@@ -12,7 +12,7 @@
    viewBox="0 0 20 20"
    version="1.1"
    id="svg836"
-   inkscape:version="1.0beta2 (6465177, 2020-02-22)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="users.svg">
   <title
      id="title5097">base</title>
@@ -80,7 +80,8 @@
   <path
      d="M 11.850885,5.9189429 A 3.761054,4.002377 0 0 1 8.0898314,9.92132 3.761054,4.002377 0 0 1 4.3287773,5.9189429 3.761054,4.002377 0 0 1 8.0898314,1.9165659 3.761054,4.002377 0 0 1 11.850885,5.9189429"
      style="fill:none;stroke:#000000;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round"
-     id="path838" />
+     id="path838"
+     class="fill" />
   <path
      id="path845"
      style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"

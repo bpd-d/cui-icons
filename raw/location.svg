@@ -12,7 +12,7 @@
    viewBox="0 0 20 20"
    version="1.1"
    id="svg836"
-   inkscape:version="1.0beta2 (6465177, 2020-02-22)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="location.svg">
   <title
      id="title5097">base</title>
@@ -84,10 +84,9 @@
      d="M 9.9924904,0.7667735 C 6.6817706,0.77033545 3.999998,3.1855861 4.0000003,6.1637237 4.0135028,7.0606642 4.4250642,8.060642 4.6232793,8.6537228 l 2.6883603,5.3969502 2.6883602,5.39695 2.6883602,-5.39695 2.68836,-5.3969502 C 15.697889,7.9594249 15.906037,6.8788004 16,6.1637237 16,3.1829497 13.313653,0.76660292 9.9999998,0.7667735 Z"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccccccsc" />
-  <circle
-     style="fill:none;stroke:#000000;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round"
+  <path
      id="path846"
-     cx="10"
-     cy="6.6704755"
-     r="1.9224029" />
+     style="fill:none;stroke:#000000;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round"
+     d="M 11.922403,6.6704755 A 1.9224029,1.9224029 0 0 1 10,8.5928783 1.9224029,1.9224029 0 0 1 8.0775971,6.6704755 1.9224029,1.9224029 0 0 1 10,4.7480726 1.9224029,1.9224029 0 0 1 11.922403,6.6704755 Z"
+     class="fill" />
 </svg>

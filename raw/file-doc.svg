@@ -12,7 +12,7 @@
    viewBox="0 0 20 20"
    version="1.1"
    id="svg836"
-   inkscape:version="1.0beta2 (6465177, 2020-02-22)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="file-doc.svg">
   <title
      id="title5097">base</title>
@@ -91,7 +91,8 @@
      style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="M 12.5,1.25 V 5 h 3.75"
      id="path846"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     class="fill" />
   <path
      style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
      d="M 6.25,11.25 H 12.5"

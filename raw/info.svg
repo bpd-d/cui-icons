@@ -8,7 +8,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="info.svg"
-   inkscape:version="1.0beta2 (6465177, 2020-02-22)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    id="svg836"
    version="1.1"
    viewBox="0 0 20 20"
@@ -86,12 +86,11 @@
      cx="10"
      id="path836"
      style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
-  <circle
-     r="1.2666667"
-     cy="4.9333339"
-     cx="10"
+  <path
      id="path850"
-     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     d="M 11.266667,4.9333339 A 1.2666667,1.2666667 0 0 1 10,6.2000005 1.2666667,1.2666667 0 0 1 8.7333333,4.9333339 1.2666667,1.2666667 0 0 1 10,3.6666672 1.2666667,1.2666667 0 0 1 11.266667,4.9333339 Z"
+     class="fill" />
   <path
      sodipodi:nodetypes="csc"
      inkscape:connector-curvature="0"

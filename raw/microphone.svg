@@ -12,7 +12,7 @@
    viewBox="0 0 20 20"
    version="1.1"
    id="svg836"
-   inkscape:version="1.0beta2 (6465177, 2020-02-22)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="microphone.svg">
   <title
      id="title5097">microphone</title>
@@ -81,7 +81,8 @@
      inkscape:connector-curvature="0"
      id="rect836"
      style="fill:none;fill-opacity:0.529412;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
-     d="m 10,1 c 2.136857,0 3.857143,1.7202857 3.857143,3.8571429 V 10 c 0,2.136857 -1.720286,3.857143 -3.857143,3.857143 C 7.8631429,13.857143 6.1428572,12.136857 6.1428572,10 V 4.8571429 C 6.1428572,2.7202857 7.8631429,1 10,1 Z" />
+     d="m 10,1 c 2.136857,0 3.857143,1.7202857 3.857143,3.8571429 V 10 c 0,2.136857 -1.720286,3.857143 -3.857143,3.857143 C 7.8631429,13.857143 6.1428572,12.136857 6.1428572,10 V 4.8571429 C 6.1428572,2.7202857 7.8631429,1 10,1 Z"
+     class="fill" />
   <path
      style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
      d="m 3.5714286,12.571429 2.5714286,3.857143 h 7.7142858 l 2.571429,-3.857143"

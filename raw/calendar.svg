@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="32.526912"
-     inkscape:cx="13.609053"
-     inkscape:cy="1.5868025"
+     inkscape:zoom="11.5"
+     inkscape:cx="21.438604"
+     inkscape:cy="4.9191138"
      inkscape:document-units="px"
      inkscape:current-layer="svg836"
      showgrid="true"
@@ -90,48 +90,36 @@
      d="M 2,6.285715 H 18"
      id="path836"
      inkscape:connector-curvature="0" />
-  <rect
-     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+  <path
      id="rect848"
-     width="2.5714285"
-     height="2.5714285"
-     x="3.5714285"
-     y="8.8571434" />
-  <rect
-     y="8.8571434"
-     x="8.7142859"
-     height="2.5714285"
-     width="2.5714285"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     d="M 3.5714285,8.8571434 H 6.1428571 V 11.428572 H 3.5714285 Z"
+     class="fill" />
+  <path
      id="rect850"
-     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
-  <rect
      style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     d="M 8.7142859,8.8571434 H 11.285714 V 11.428572 H 8.7142859 Z"
+     class="fill" />
+  <path
      id="rect852"
-     width="2.5714285"
-     height="2.5714285"
-     x="13.857143"
-     y="8.8571434" />
-  <rect
-     y="14.000001"
-     x="3.5714285"
-     height="2.5714285"
-     width="2.5714285"
-     id="rect854"
-     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
-  <rect
      style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     d="m 13.857143,8.8571434 h 2.571429 v 2.5714286 h -2.571429 z"
+     class="fill" />
+  <path
+     id="rect854"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     d="m 3.5714285,14.000001 h 2.5714286 v 2.571428 H 3.5714285 Z"
+     class="fill" />
+  <path
      id="rect856"
-     width="2.5714285"
-     height="2.5714285"
-     x="8.7142859"
-     y="14.000001" />
-  <rect
-     y="14.000001"
-     x="13.857143"
-     height="2.5714285"
-     width="2.5714285"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     d="m 8.7142859,14.000001 h 2.5714281 v 2.571428 H 8.7142859 Z"
+     class="fill" />
+  <path
      id="rect858"
-     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     d="m 13.857143,14.000001 h 2.571429 v 2.571428 h -2.571429 z"
+     class="fill" />
   <path
      sodipodi:nodetypes="cc"
      style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"

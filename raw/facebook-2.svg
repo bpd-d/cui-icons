@@ -12,7 +12,7 @@
    viewBox="0 0 20 20"
    version="1.1"
    id="svg836"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="facebook-2.svg">
   <title
      id="title5097">base</title>
@@ -77,73 +77,9 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:18.3234;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     transform="matrix(0.05441756,0,0,0.05473316,2.1419635,2)"
-     id="g891">
-    <path
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:18.3233;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 205.807,0 h -15.694 c -43.62,0 -79.107,35.488 -79.107,79.108 v 33.386 H 84.193 c -2.761,0 -5,2.239 -5,5 v 40 c 0,2.761 2.239,5 5,5 h 26.811 V 285 c 0,2.761 2.239,5 5,5 h 40 c 2.761,0 5,-2.239 5,-5 V 162.494 h 39.786 c 2.761,0 5,-2.239 5,-5 v -40 c 0,-2.761 -2.239,-5 -5,-5 H 161.004 V 79.108 C 161.004,63.058 174.062,50 190.111,50 h 15.694 c 2.761,0 5,-2.239 5,-5 V 5 c 0.002,-2.761 -2.237,-5 -4.998,-5 z"
-       id="path836" />
-    <g
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:18.3233;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g838">
-</g>
-    <g
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:18.3233;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g840">
-</g>
-    <g
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:18.3233;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g842">
-</g>
-    <g
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:18.3233;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g844">
-</g>
-    <g
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:18.3233;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g846">
-</g>
-    <g
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:18.3233;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g848">
-</g>
-    <g
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:18.3233;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g850">
-</g>
-    <g
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:18.3233;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g852">
-</g>
-    <g
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:18.3233;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g854">
-</g>
-    <g
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:18.3233;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g856">
-</g>
-    <g
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:18.3233;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g858">
-</g>
-    <g
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:18.3233;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g860">
-</g>
-    <g
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:18.3233;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g862">
-</g>
-    <g
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:18.3233;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g864">
-</g>
-    <g
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:18.3233;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g866">
-</g>
-  </g>
+  <path
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.999996;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 13.341478,2 H 12.487449 C 10.113755,2 8.1826392,3.9423704 8.1826392,6.3298308 V 8.1571521 H 6.7235411 c -0.1502469,0 -0.2720878,0.1225475 -0.2720878,0.2736658 v 2.1893261 c 0,0.151119 0.1218409,0.273666 0.2720878,0.273666 h 1.4589892 v 6.705141 c 0,0.151118 0.1218409,0.273665 0.2720878,0.273665 h 2.1767029 c 0.150246,0 0.272087,-0.122547 0.272087,-0.273665 V 10.89381 h 2.165057 c 0.150247,0 0.272088,-0.122547 0.272088,-0.273666 V 8.4308179 c 0,-0.1511183 -0.121841,-0.2736658 -0.272088,-0.2736658 H 10.903408 V 6.3298308 c 0,-0.8784672 0.710585,-1.5931728 1.583932,-1.5931728 h 0.854029 c 0.150247,0 0.272088,-0.1225475 0.272088,-0.2736658 V 2.2736658 C 13.613566,2.1225475 13.491725,2 13.341478,2 Z"
+     id="path836"
+     class="fill" />
 </svg>

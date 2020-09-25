@@ -12,7 +12,7 @@
    viewBox="0 0 20 20"
    version="1.1"
    id="svg836"
-   inkscape:version="1.0beta2 (6465177, 2020-02-22)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="news.svg">
   <title
      id="title5097">base</title>
@@ -114,11 +114,9 @@
      d="M 3.5714286,3.5714286 H 16.428572"
      id="path846"
      inkscape:connector-curvature="0" />
-  <rect
-     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+  <path
      id="rect848"
-     width="2.5714285"
-     height="7.7142859"
-     x="3.5714285"
-     y="8.7142859" />
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     d="M 3.5714285,8.7142859 H 6.1428571 V 16.428572 H 3.5714285 Z"
+     class="fill" />
 </svg>

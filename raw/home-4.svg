@@ -8,7 +8,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="home-4.svg"
-   inkscape:version="1.0beta2 (6465177, 2020-02-22)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    id="svg836"
    version="1.1"
    viewBox="0 0 20 20"
@@ -87,12 +87,11 @@
      d="m 8.7142858,18.999998 v -5.142857 h 2.5714282 v 5.142857 h -1.113158 z"
      id="path1353"
      inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccccc" />
-  <rect
-     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     sodipodi:nodetypes="cccccc"
+     class="fill" />
+  <path
      id="rect1364"
-     width="2.5714285"
-     height="2.5714285"
-     x="8.7142859"
-     y="7.4285688" />
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     d="M 8.7142859,7.4285688 H 11.285714 V 9.9999974 H 8.7142859 Z"
+     class="fill" />
 </svg>

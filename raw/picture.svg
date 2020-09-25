@@ -12,7 +12,7 @@
    viewBox="0 0 20 20"
    version="1.1"
    id="svg836"
-   inkscape:version="1.0beta2 (6465177, 2020-02-22)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="picture.svg">
   <title
      id="title5097">picture</title>
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.75"
-     inkscape:cx="0.69100696"
-     inkscape:cy="-21.498636"
+     inkscape:zoom="16.263456"
+     inkscape:cx="0.24430785"
+     inkscape:cy="2.9687092"
      inkscape:document-units="px"
      inkscape:current-layer="svg836"
      showgrid="true"
@@ -98,10 +98,9 @@
      d="m 10,11.999955 1.285714,-2.571428 2.571442,5.142884"
      id="path841"
      inkscape:connector-curvature="0" />
-  <circle
-     r="1.7142859"
-     cy="5.7857146"
-     cx="15"
+  <path
      id="path843"
-     style="fill:none;fill-opacity:0.529412;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+     style="fill:none;fill-opacity:0.529412;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     d="M 16.714286,5.7857146 A 1.7142859,1.7142859 0 0 1 15,7.5000005 1.7142859,1.7142859 0 0 1 13.285714,5.7857146 1.7142859,1.7142859 0 0 1 15,4.0714288 1.7142859,1.7142859 0 0 1 16.714286,5.7857146 Z"
+     class="fill" />
 </svg>

@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="45.254831"
-     inkscape:cx="6.0611931"
-     inkscape:cy="16.049323"
+     inkscape:zoom="15.999999"
+     inkscape:cx="-7.3129424"
+     inkscape:cy="5.6211663"
      inkscape:document-units="px"
      inkscape:current-layer="svg836"
      showgrid="true"
@@ -85,7 +85,8 @@
      id="path844"
      style="fill:none;stroke:#000000;stroke-width:0.999994px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
      d="M 3.4999963,16.58621 H 16.500003 m -13.0000067,0 c 0,0 1.5419321,-3.756855 1.8571436,-5.802391 0.1756,-1.1395373 0,-3.481432 0,-3.481432 0,-3.2145239 2.0707155,-5.80239 4.6428598,-5.80239 v 0 c 2.5721453,0 4.6428593,2.5878661 4.6428593,5.80239 0,0 -0.1756,2.3418947 0,3.481432 0.31521,2.045536 1.857144,5.802391 1.857144,5.802391"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     class="fill" />
   <path
      id="path846"
      style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"

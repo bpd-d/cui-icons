@@ -8,7 +8,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="social-instagram.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    id="svg836"
    version="1.1"
    viewBox="0 0 20 20"
@@ -31,9 +31,9 @@
      showgrid="true"
      inkscape:current-layer="svg836"
      inkscape:document-units="px"
-     inkscape:cy="-10.036287"
-     inkscape:cx="-46.014407"
-     inkscape:zoom="8"
+     inkscape:cy="6.5930644"
+     inkscape:cx="2.1654173"
+     inkscape:zoom="22.627417"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -78,27 +78,18 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <rect
-     ry="2.515625"
-     rx="2.515625"
-     y="1.5397524"
-     x="1.5321698"
-     height="17.000004"
-     width="17.000008"
+  <path
      id="rect1574"
-     style="opacity:0.997;fill:none;stroke:#000000;stroke-width:0.999997;stroke-linecap:round;stroke-linejoin:round" />
-  <ellipse
-     ry="4.0000019"
-     rx="4.0000043"
-     cy="11.492881"
-     cx="9.9931126"
+     style="opacity:0.997;fill:none;stroke:#000000;stroke-width:0.999997;stroke-linecap:round;stroke-linejoin:round"
+     d="M 4.0477948,1.5397524 H 16.016552 c 1.393657,0 2.515625,1.1219687 2.515625,2.515625 V 16.024131 c 0,1.393656 -1.121968,2.515625 -2.515625,2.515625 H 4.0477948 c -1.3936562,0 -2.515625,-1.121969 -2.515625,-2.515625 V 4.0553774 c 0,-1.3936563 1.1219688,-2.515625 2.515625,-2.515625 z" />
+  <path
      id="path1576"
-     style="opacity:0.997;fill:none;stroke:#000000;stroke-width:0.999996;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
-  <ellipse
-     style="opacity:0.997;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     style="opacity:0.997;fill:none;stroke:#000000;stroke-width:0.999996;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     d="M 13.993117,11.492881 A 4.0000043,4.0000019 0 0 1 9.9931126,15.492883 4.0000043,4.0000019 0 0 1 5.9931083,11.492881 4.0000043,4.0000019 0 0 1 9.9931126,7.4928789 4.0000043,4.0000019 0 0 1 13.993117,11.492881 Z"
+     class="fill" />
+  <path
      id="ellipse1578"
-     cx="14.735368"
-     cy="5.2564683"
-     rx="0.75000054"
-     ry="0.75000048" />
+     style="opacity:0.997;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     d="m 15.485368,5.2564683 a 0.75000054,0.75000048 0 0 1 -0.75,0.7500005 0.75000054,0.75000048 0 0 1 -0.750001,-0.7500005 0.75000054,0.75000048 0 0 1 0.750001,-0.7500005 0.75000054,0.75000048 0 0 1 0.75,0.7500005 z"
+     class="fill" />
 </svg>

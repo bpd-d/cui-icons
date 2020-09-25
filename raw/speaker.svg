@@ -12,7 +12,7 @@
    viewBox="0 0 20 20"
    version="1.1"
    id="svg836"
-   inkscape:version="1.0beta2 (6465177, 2020-02-22)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="speaker.svg">
   <title
      id="title5097">base</title>
@@ -84,7 +84,8 @@
      style="fill:none;stroke:#000000;stroke-width:0.999999px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
      d="M 13.75,18.75 V 1.2500001 l -6.6666671,5 H 1.25 V 13.75 h 5.8333329 z"
      id="path920"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     class="fill" />
   <path
      style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
      d="m 16.25,7.5 v 5"

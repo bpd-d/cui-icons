@@ -12,7 +12,7 @@
    viewBox="0 0 20 20"
    version="1.1"
    id="svg836"
-   inkscape:version="1.0beta2 (6465177, 2020-02-22)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="devices-laptop.svg">
   <title
      id="title5097">base</title>
@@ -77,13 +77,11 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <rect
-     style="fill:none;stroke:#000000;stroke-width:0.999994;stroke-linecap:round;stroke-linejoin:round"
+  <path
      id="rect1313"
-     width="14"
-     height="9.333333"
-     x="3.0000002"
-     y="4.166667" />
+     style="fill:none;stroke:#000000;stroke-width:0.999994;stroke-linecap:round;stroke-linejoin:round"
+     d="M 3.0000002,4.166667 H 17 V 13.5 H 3.0000002 Z"
+     class="fill" />
   <path
      inkscape:connector-curvature="0"
      id="path1325"

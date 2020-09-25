@@ -12,7 +12,7 @@
    viewBox="0 0 20 20"
    version="1.1"
    id="svg836"
-   inkscape:version="1.0beta2 (6465177, 2020-02-22)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="mail.svg">
   <title
      id="title5097">base</title>
@@ -77,13 +77,10 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <rect
-     y="3"
-     x="0.99971545"
-     height="14"
-     width="18.000568"
+  <path
      id="rect835"
-     style="fill:none;fill-opacity:0.529412;stroke:#000000;stroke-width:0.999995;stroke-linecap:round;stroke-linejoin:round" />
+     style="fill:none;fill-opacity:0.529412;stroke:#000000;stroke-width:0.999995;stroke-linecap:round;stroke-linejoin:round"
+     d="M 0.99971545,3 H 19.000284 V 17 H 0.99971545 Z" />
   <path
      style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
      d="M 0.9997142,6.1427346 9.9999999,11.285755 19.000286,6.1427346"

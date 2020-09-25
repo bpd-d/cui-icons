@@ -80,13 +80,11 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <circle
-     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+  <path
      id="path836"
-     cx="-4.4330978"
-     cy="18.583784"
-     r="2.2162845"
-     transform="matrix(0.70667965,-0.70753365,0.70667965,0.70753365,0,0)" />
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     d="M 12.216285,16 A 2.2162845,2.2162845 0 0 1 10,18.216285 2.2162845,2.2162845 0 0 1 7.7837155,16 2.2162845,2.2162845 0 0 1 10,13.783716 2.2162845,2.2162845 0 0 1 12.216285,16 Z"
+     class="fill" />
   <path
      inkscape:connector-curvature="0"
      id="path955"

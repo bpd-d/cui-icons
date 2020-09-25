@@ -12,7 +12,7 @@
    viewBox="0 0 20 20"
    version="1.1"
    id="svg836"
-   inkscape:version="1.0beta2 (6465177, 2020-02-22)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="home.svg">
   <title
      id="title5097">base</title>
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16.263456"
-     inkscape:cx="13.171284"
-     inkscape:cy="3.1743498"
+     inkscape:zoom="23"
+     inkscape:cx="9.5469818"
+     inkscape:cy="12.98895"
      inkscape:document-units="px"
      inkscape:current-layer="svg836"
      showgrid="true"
@@ -90,8 +90,9 @@
   <path
      inkscape:connector-curvature="0"
      id="path1349"
-     d="M 10,1 1,9.3076926 h 18 z"
-     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+     d="M 10,0.6923074 1,9 h 18 z"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     class="fill" />
   <path
      inkscape:connector-curvature="0"
      id="rect837"

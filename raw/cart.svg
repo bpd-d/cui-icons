@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="45.254834"
-     inkscape:cx="10.648434"
-     inkscape:cy="4.321508"
+     inkscape:zoom="16"
+     inkscape:cx="3.1393263"
+     inkscape:cy="11.919122"
      inkscape:document-units="px"
      inkscape:current-layer="svg836"
      showgrid="true"
@@ -80,18 +80,16 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <circle
-     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+  <path
      id="path836"
-     cx="14.571429"
-     cy="16.571428"
-     r="1.9285709" />
-  <circle
-     r="1.9285709"
-     cy="16.571428"
-     cx="7.5714293"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     d="M 16.5,16.571428 A 1.9285709,1.9285709 0 0 1 14.571429,18.499999 1.9285709,1.9285709 0 0 1 12.642858,16.571428 1.9285709,1.9285709 0 0 1 14.571429,14.642857 1.9285709,1.9285709 0 0 1 16.5,16.571428 Z"
+     class="fill" />
+  <path
      id="circle838"
-     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     d="M 9.5000001,16.571428 A 1.9285709,1.9285709 0 0 1 7.5714293,18.499999 1.9285709,1.9285709 0 0 1 5.6428584,16.571428 1.9285709,1.9285709 0 0 1 7.5714293,14.642857 1.9285709,1.9285709 0 0 1 9.5000001,16.571428 Z"
+     class="fill" />
   <path
      style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
      d="M 4.7582461,12.857139 H 16.626374 L 19,5.4285747 H 3.5714333 Z"

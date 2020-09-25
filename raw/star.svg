@@ -12,7 +12,7 @@
    viewBox="0 0 20 20"
    version="1.1"
    id="svg836"
-   inkscape:version="1.0beta2 (6465177, 2020-02-22)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="star.svg">
   <title
      id="title5097">star</title>
@@ -80,7 +80,7 @@
   <path
      id="path837"
      style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
-     inkscape:transform-center-y="-0.90901589"
      d="M 9.9465711,1.3069611 12.744236,6.9756466 19,7.8846626 14.473287,12.29712 15.541899,18.527608 9.9465711,15.58597 4.3512443,18.527608 5.419856,12.29712 0.89314139,7.884663 7.1489076,6.9756464 Z"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     class="fill" />
 </svg>

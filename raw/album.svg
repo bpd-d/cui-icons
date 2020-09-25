@@ -84,7 +84,8 @@
   <path
      id="rect875"
      style="fill:none;stroke:#000000;stroke-width:0.999992;stroke-linecap:round;stroke-linejoin:round"
-     d="m 1.484375,7.4921875 h 17.03125 V 17.492187 H 1.484375 Z" />
+     d="m 1.484375,7.4921875 h 17.03125 V 17.492187 H 1.484375 Z"
+     class="fill" />
   <path
      inkscape:connector-curvature="0"
      id="path883"

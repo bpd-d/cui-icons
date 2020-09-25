@@ -12,7 +12,7 @@
    viewBox="0 0 20 20"
    version="1.1"
    id="svg836"
-   inkscape:version="1.0beta2 (6465177, 2020-02-22)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="lock.svg">
   <title
      id="title5097">base</title>
@@ -77,13 +77,11 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <rect
-     y="8.8756523"
-     x="3.2494407"
-     height="10.125051"
-     width="13.50112"
+  <path
      id="rect835"
-     style="fill:none;fill-opacity:0.529412;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+     style="fill:none;fill-opacity:0.529412;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     d="M 3.2494407,8.8756523 H 16.75056 V 19.000703 H 3.2494407 Z"
+     class="fill" />
   <path
      inkscape:connector-curvature="0"
      id="rect836"

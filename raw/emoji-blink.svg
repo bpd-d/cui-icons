@@ -12,7 +12,7 @@
    viewBox="0 0 20 20"
    version="1.1"
    id="svg836"
-   inkscape:version="1.0beta2 (6465177, 2020-02-22)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="emoji-blink.svg">
   <title
      id="title5097">base</title>
@@ -80,18 +80,15 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <circle
-     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+  <path
      id="path836"
-     cx="10"
-     cy="10"
-     r="9.5" />
-  <circle
      style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     d="M 19.5,10 A 9.5,9.5 0 0 1 10,19.5 9.5,9.5 0 0 1 0.5,10 9.5,9.5 0 0 1 10,0.5 9.5,9.5 0 0 1 19.5,10 Z" />
+  <path
      id="path838"
-     cx="6.2000003"
-     cy="7.4666667"
-     r="1.9000001" />
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     d="M 8.1000004,7.4666667 A 1.9000001,1.9000001 0 0 1 6.2000003,9.3666668 1.9000001,1.9000001 0 0 1 4.3000002,7.4666667 1.9000001,1.9000001 0 0 1 6.2000003,5.5666666 1.9000001,1.9000001 0 0 1 8.1000004,7.4666667 Z"
+     class="fill" />
   <path
      id="path856"
      style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"

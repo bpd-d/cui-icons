@@ -12,7 +12,7 @@
    viewBox="0 0 20 20"
    version="1.1"
    id="svg836"
-   inkscape:version="1.0beta2 (6465177, 2020-02-22)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="file.svg">
   <title
      id="title5097">base</title>
@@ -78,13 +78,8 @@
     </rdf:RDF>
   </metadata>
   <path
-     inkscape:connector-curvature="0"
      id="rect836"
      style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
-     d="M 16.25,5 V 18.75 H 3.75 v -17.5 0 h 8.75" />
-  <path
-     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="M 12.5,1.25 16.25,5"
-     id="path838"
-     inkscape:connector-curvature="0" />
+     d="M 3.75 1.25 L 3.75 18.75 L 16.25 18.75 L 16.25 5 L 12.5 1.25 L 3.75 1.25 z "
+     class="fill" />
 </svg>

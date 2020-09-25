@@ -8,7 +8,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="comment-3.svg"
-   inkscape:version="1.0beta2 (6465177, 2020-02-22)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    id="svg836"
    version="1.1"
    viewBox="0 0 20 20"
@@ -83,20 +83,8 @@
      id="rect835"
      inkscape:connector-curvature="0" />
   <path
-     inkscape:transform-center-y="0.83333522"
-     d="M 10,10.196152 8.5,7.5980763 7,5.0000002 10,5.0000001 13,5 11.5,7.5980763 Z"
-     inkscape:randomized="0"
-     inkscape:rounded="0"
-     inkscape:flatsided="false"
-     sodipodi:arg2="2.6179939"
-     sodipodi:arg1="1.5707963"
-     sodipodi:r2="1.7320508"
-     sodipodi:r1="3.4641016"
-     sodipodi:cy="6.7320509"
-     sodipodi:cx="10"
-     sodipodi:sides="3"
      id="path853"
      style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.11672;stroke-linecap:round;stroke-linejoin:round"
-     sodipodi:type="star"
-     transform="matrix(0.83333515,0,0,0.9622526,1.6666481,0.18873695)" />
+     d="M 10,10.196152 8.5,7.5980763 7,5.0000002 10,5.0000001 13,5 11.5,7.5980763 Z"
+     class="fill" />
 </svg>

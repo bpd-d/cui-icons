@@ -31,9 +31,9 @@
      showgrid="true"
      inkscape:current-layer="svg836"
      inkscape:document-units="px"
-     inkscape:cy="6.1511496"
-     inkscape:cx="25.235499"
-     inkscape:zoom="23"
+     inkscape:cy="6.0820275"
+     inkscape:cx="27.127763"
+     inkscape:zoom="16.263456"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -77,24 +77,17 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <rect
-     style="fill:none;fill-opacity:0.529412;stroke:#000000;stroke-width:0.999997;stroke-linecap:round;stroke-linejoin:round"
+  <path
      id="rect835"
-     width="16.000002"
-     height="12"
-     x="1.9999988"
-     y="5.833333" />
-  <circle
-     style="fill:none;fill-opacity:0.529412;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:none;fill-opacity:0.529412;stroke:#000000;stroke-width:0.999997;stroke-linecap:round;stroke-linejoin:round"
+     d="M 1.9999988,5.833333 H 18.000001 v 12 H 1.9999988 Z" />
+  <path
      id="path837"
-     cx="9.971014"
-     cy="11.833333"
-     r="3.3333333" />
-  <rect
-     style="fill:none;fill-opacity:0.529412;stroke:#000000;stroke-width:0.999996;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:none;fill-opacity:0.529412;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     d="M 13.304347,11.833333 A 3.3333333,3.3333333 0 0 1 9.971014,15.166666 3.3333333,3.3333333 0 0 1 6.6376808,11.833333 3.3333333,3.3333333 0 0 1 9.971014,8.4999998 3.3333333,3.3333333 0 0 1 13.304347,11.833333 Z"
+     class="fill" />
+  <path
      id="rect839"
-     width="5.333333"
-     height="2.6666665"
-     x="10.666666"
-     y="3.1666663" />
+     style="fill:none;fill-opacity:0.529412;stroke:#000000;stroke-width:0.999996;stroke-linecap:round;stroke-linejoin:round"
+     d="m 10.666666,3.1666663 h 5.333333 v 2.6666665 h -5.333333 z" />
 </svg>

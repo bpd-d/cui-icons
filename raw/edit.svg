@@ -82,7 +82,8 @@
      inkscape:connector-curvature="0"
      d="m 17,3 c 0.322013,0.3221982 0.362485,0.8347474 -0.717595,1.9154488 L 8.4840194,12.718346 c -1.0800768,1.080702 -3.6449016,2.483838 -3.6449016,2.483838 0,0 1.4023257,-2.566309 2.4824023,-3.647008 L 15.119908,3.7522772 C 16.199984,2.6715758 16.677987,2.6778012 17,3 Z"
      style="fill:none;stroke:#000000;stroke-width:0.999998;stroke-linecap:round;stroke-linejoin:round"
-     id="rect836" />
+     id="rect836"
+     class="fill" />
   <path
      sodipodi:nodetypes="ccccc"
      inkscape:connector-curvature="0"
