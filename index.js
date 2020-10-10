@@ -27,6 +27,7 @@ chevron_down:"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 20 20\" wi
 chevron_left:"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 20 20\" width=\"20\" height=\"20\"><path d=\"M 16.428566,19 3.5714232,10 16.428566,1\"></path></svg>",
 chevron_right:"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 20 20\" width=\"20\" height=\"20\"><path d=\"M 3.571481,19 16.428624,10 3.571481,1\"></path></svg>",
 chevron_up:"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 20 20\" width=\"20\" height=\"20\"><path d=\"M 18.399958,15.999944 10.000024,4 1.600091,15.999944\"></path></svg>",
+clear:"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 20 20\" width=\"20\" height=\"20\"><path d=\"M 2,10 8.2222222,5 H 18 V 15 H 8.2222222 Z\"></path></svg>",
 clock:"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 20 20\" width=\"20\" height=\"20\"><circle cx=\"10\" cy=\"10\" r=\"8.695653\"></circle><path d=\"m 10,4 v 6 l 3.6,3.6\"></path></svg>",
 close:"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 20 20\" width=\"20\" height=\"20\"><path d=\"M 1.9999999,1.9999999 18,18\"></path><path d=\"M 18,1.9999999 1.9999999,18\"></path></svg>",
 code:"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 20 20\" width=\"20\" height=\"20\"><path d=\"M 7.6666672,2.0000001 1,10 7.6666672,18.000001\"></path><path d=\"M 12.333333,2.0000001 19,10 12.333333,18.000001\"></path></svg>",
