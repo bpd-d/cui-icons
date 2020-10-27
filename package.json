@@ -1,6 +1,6 @@
 {
   "name": "bpd-cui-icons",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "SVG icons pack for cUI",
   "main": "index.js",
   "scripts": {
