@@ -1,4 +1,4 @@
-export const CUI_ICONS_VERSION = "0.1.7";
+export const CUI_ICONS_VERSION = "0.1.8";
 export const CuiIconsPack = {
     accordion: "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 20 20\" width=\"20\" height=\"20\"><path d=\"M 5.0000475,7.4490018 10.000024,12.551028 15,7.4490018\"></path></svg>",
     album: "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 20 20\" width=\"20\" height=\"20\"><path d=\"m 1.484375,7.4921875 h 17.03125 V 17.492187 H 1.484375 Z\" class=\"fill\"></path><path d=\"m 2.5,5.4986995 h 15\"></path><path d=\"M 5.0441942,3.4848354 H 15.044194\"></path><path d=\"M 6.4789868,1.508233 H 13.540295\"></path></svg>",
