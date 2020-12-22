@@ -21,10 +21,10 @@
   <sodipodi:namedview
      inkscape:document-rotation="0"
      inkscape:window-maximized="1"
-     inkscape:window-y="-8"
-     inkscape:window-x="2728"
-     inkscape:window-height="1017"
-     inkscape:window-width="2560"
+     inkscape:window-y="-6"
+     inkscape:window-x="-6"
+     inkscape:window-height="850"
+     inkscape:window-width="1368"
      inkscape:guide-bbox="true"
      showguides="true"
      units="px"
@@ -80,6 +80,6 @@
   <path
      inkscape:connector-curvature="0"
      id="path844"
-     d="M 7.1428993,14 12.857185,10 7.1428993,6"
-     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+     d="M 8.142815,14 12,10 8.142815,6"
+     style="fill:none;stroke:#000000;stroke-width:0.999996px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
 </svg>
