@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="chevron-up.svg"
+   sodipodi:docname="heartbeat.svg"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    id="svg836"
    version="1.1"
@@ -19,6 +19,10 @@
   <defs
      id="defs830" />
   <sodipodi:namedview
+     inkscape:snap-to-guides="false"
+     inkscape:snap-grids="true"
+     inkscape:snap-others="true"
+     inkscape:snap-nodes="true"
      inkscape:document-rotation="0"
      inkscape:window-maximized="1"
      inkscape:window-y="-8"
@@ -31,15 +35,16 @@
      showgrid="true"
      inkscape:current-layer="svg836"
      inkscape:document-units="px"
-     inkscape:cy="-5.7246501"
-     inkscape:cx="61.971672"
-     inkscape:zoom="8.131728"
+     inkscape:cy="-17.645003"
+     inkscape:cx="65.746849"
+     inkscape:zoom="5.6568544"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
      bordercolor="#666666"
      pagecolor="#ffffff"
-     id="base">
+     id="base"
+     inkscape:snap-bbox="true">
     <inkscape:grid
        enabled="true"
        id="grid1384"
@@ -78,9 +83,7 @@
     </rdf:RDF>
   </metadata>
   <path
-     inkscape:connector-curvature="0"
-     id="path844"
-     d="M 17,14 10,6 3,14"
-     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-     sodipodi:nodetypes="ccc" />
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 1,10 h 4 l 3,-5 4,8 2,-3 h 5"
+     id="path843" />
 </svg>
