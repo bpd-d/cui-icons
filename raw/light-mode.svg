@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="light-mode.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   id="svg836"
+   version="1.1"
+   viewBox="0 0 20 20"
+   height="20"
+   width="20">
+  <title
+     id="title5097">base</title>
+  <defs
+     id="defs830" />
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-6"
+     inkscape:window-x="58"
+     inkscape:window-height="890"
+     inkscape:window-width="1303"
+     inkscape:guide-bbox="true"
+     showguides="true"
+     units="px"
+     showgrid="true"
+     inkscape:current-layer="svg836"
+     inkscape:document-units="px"
+     inkscape:cy="1.013919"
+     inkscape:cx="-5.5481939"
+     inkscape:zoom="8.131728"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base">
+    <inkscape:grid
+       enabled="true"
+       id="grid1384"
+       type="xygrid" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide5089"
+       orientation="0,1"
+       position="3,19" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide5091"
+       orientation="0,1"
+       position="7,1" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide5093"
+       orientation="1,0"
+       position="1,21" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide5095"
+       orientation="1,0"
+       position="19,20" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata833">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>base</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="path841"
+     style="opacity:0.999;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+     d="M 6.8181217 6.8179173 A 4.5 4.5 0 0 1 10 5.5 A 4.5 4.5 0 0 1 14.5 10 L 14.5 10 A 4.5 4.5 0 0 1 13.181878 13.182083 " />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 15,5 18,2"
+     id="path851" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 16,10 h 3"
+     id="path859" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 10,4 V 1"
+     id="path863" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 2,2 18,18"
+     id="path844" />
+  <path
+     id="path852"
+     style="opacity:0.999;fill:none;stroke:#000000;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+     d="M 14.605273,15.000001 A 6.7983019,6.7983019 0 0 1 9.798302,16.991022 6.7983019,6.7983019 0 0 1 3.0000001,10.19272 v 0 A 6.7983019,6.7983019 0 0 1 4.9913316,5.3854398" />
+  <circle
+     style="opacity:0.999;fill:none;stroke:#000000;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+     id="path854"
+     cx="9.9526815"
+     cy="14.004446"
+     r="1.0237365" />
+  <path
+     id="circle856"
+     style="opacity:0.999;fill:none;stroke:#000000;stroke-width:0.999998;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+     d="M 3.2165357 8.4927362 A 2.0606601 2.0606601 0 0 1 3.5566974 8.4644663 A 2.0606601 2.0606601 0 0 1 5.6173575 10.525126 L 5.6173575 10.525126 A 2.0606601 2.0606601 0 0 1 3.5566974 12.585787 A 2.0606601 2.0606601 0 0 1 3.4340935 12.582136 " />
+</svg>

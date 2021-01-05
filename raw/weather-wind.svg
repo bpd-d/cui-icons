@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="weather-wind.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   id="svg836"
+   version="1.1"
+   viewBox="0 0 20 20"
+   height="20"
+   width="20">
+  <title
+     id="title5097">base</title>
+  <defs
+     id="defs830" />
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-6"
+     inkscape:window-x="58"
+     inkscape:window-height="890"
+     inkscape:window-width="1303"
+     inkscape:guide-bbox="true"
+     showguides="true"
+     units="px"
+     showgrid="true"
+     inkscape:current-layer="svg836"
+     inkscape:document-units="px"
+     inkscape:cy="4.1513398"
+     inkscape:cx="6.7619422"
+     inkscape:zoom="11.5"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base">
+    <inkscape:grid
+       enabled="true"
+       id="grid1384"
+       type="xygrid" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide5089"
+       orientation="0,1"
+       position="3,19" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide5091"
+       orientation="0,1"
+       position="7,1" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide5093"
+       orientation="1,0"
+       position="1,21" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide5095"
+       orientation="1,0"
+       position="19,20" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata833">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>base</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="path1500"
+     style="opacity:0.999;fill:none;stroke:#000000;stroke-width:0.999997;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+     d="M 10.676279,2.7444366 A 1.9274606,1.9274606 0 0 1 12.072539,2.1457207 1.9274606,1.9274606 0 0 1 14,4.0731814 v 0 A 1.9274606,1.9274606 0 0 1 12.072539,6.000642 1.9274606,1.9274606 0 0 1 12.022799,6 M 2,6 h 10.022795" />
+  <path
+     id="path1509"
+     style="opacity:0.999;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+     d="M 7.7841861,16.170375 A 1.2849738,1.2849738 0 0 0 8.7150262,16.569519 1.2849738,1.2849738 0 0 0 10,15.284545 v 0 A 1.2849738,1.2849738 0 0 0 8.7150262,13.999571 1.2849738,1.2849738 0 0 0 8.6818622,14 M 2,14 h 6.681864" />
+  <path
+     id="path1513"
+     style="opacity:0.999;fill:none;stroke:#000000;stroke-width:0.999997;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+     d="M 13.562058,14.34715 A 2.5736088,2.5736088 0 0 0 15.42639,15.146575 2.5736088,2.5736088 0 0 0 18,12.572967 v 0 a 2.5736088,2.5736088 0 0 0 -2.57361,-2.5736091 2.5736088,2.5736088 0 0 0 -0.06641,8.571e-4 m -13.382771,0 h 13.382766" />
+</svg>
