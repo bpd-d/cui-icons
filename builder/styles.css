@@ -1,0 +1,201 @@
+:root {
+    --app-background      : #fafafa;
+    --primary-color       : #0895a4;
+    --component-background: #fff;
+    --base-color          : #222;
+    --muted-color         : #999;
+    --shade-color         : #ddd;
+    --padding             : 16px;
+    --padding-small       : 8px;
+    --font-size           : 16px;
+    --margin              : 16px;
+    --margin-small        : 8px;
+}
+
+body {
+    padding         : 0px;
+    margin          : 0px;
+    font-size       : var(--font-size);
+    color           : var(--base-color);
+    font-family     : Verdana, Geneva, Tahoma, sans-serif;
+    background-color: var(--app-background);
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.navbar {
+    display         : flex;
+    align-items     : center;
+    border-bottom   : 1px solid var(--shade-color);
+    background-color: var(--component-background);
+}
+
+.navbar .navbar-left {
+    justify-self: start;
+    flex        : 1 1 auto;
+    padding     : var(--padding);
+}
+
+.navbar .navbar-right {
+    justify-self: right;
+    padding     : var(--padding);
+}
+
+.navbar .navbar-title {
+    font-size: calc(var(--font-size) * 1.4);
+}
+
+.container {
+    padding: var(--padding);
+}
+
+.grid {
+    display        : flex;
+    justify-content: center;
+    align-items    : center;
+    flex-wrap      : wrap;
+}
+
+.grid .card {
+    width: 280px;
+}
+
+.floating-bar {
+    position: fixed;
+    display : inline-block;
+    bottom  : 0px;
+    right   : 0px;
+    margin  : var(--margin);
+}
+
+.button {
+    outline      : none;
+    border       : 1px solid var(--shade-color);
+    border-radius: 100px;
+    font-size    : var(--font-size);
+    padding      : var(--padding) calc(var(--padding)*1.6);
+    background   : var(--component-background);
+    cursor       : pointer;
+}
+
+.button:hover {
+    border-color: var(--muted-color);
+}
+
+.button:active {
+    border-color: var(--base-color);
+}
+
+.card {
+    padding         : var(--padding);
+    border          : 1px solid var(--shade-color);
+    border-radius   : 8px;
+    background-color: var(--component-background);
+    margin          : var(--margin-small);
+    cursor          : pointer;
+    display         : flex;
+    align-items     : center;
+
+}
+
+.card:hover {
+    border-color: var(--muted-color);
+}
+
+.card.selected {
+    border-color: var(--primary-color);
+}
+
+.card:hover.selected {
+    border-color: var(--primary-color);
+}
+
+.card.selected .icon-label {
+    color: var(--primary-color);
+}
+
+.card.selected .icon svg {
+    stroke: var(--primary-color);
+}
+
+.button-bar {
+    width          : 100%;
+    display        : flex;
+    justify-content: flex-end;
+    align-items    : center;
+    padding        : var(--padding-small);
+}
+
+.icon {
+    display        : inline-flex;
+    align-items    : center;
+    justify-content: center;
+    text-align     : center;
+    line-height    : 20px;
+    vertical-align : middle;
+    text-decoration: none;
+    color          : var(--base-color);
+}
+
+.icon svg {
+    box-sizing     : border-box;
+    height         : auto;
+    order          : 0;
+    fill           : none;
+    stroke         : var(--base-color);
+    stroke-opacity : 1;
+    stroke-width   : 1px;
+    stroke-linecap : round;
+    stroke-linejoin: miter;
+}
+
+.icon-label {
+    display    : inline-block;
+    margin-left: var(--margin);
+}
+
+.modal {
+    position        : fixed;
+    top             : 0;
+    width           : 100vw;
+    height          : 100vh;
+    background-color: #22222220;
+    display         : flex;
+    justify-content : center;
+    align-items     : center;
+    display         : none;
+}
+
+.modal.active {
+    display: flex;
+}
+
+.modal-container {
+    width           : max(280px, 70vw);
+    background-color: var(--component-background);
+}
+
+.modal .modal-header {
+    padding: var(--padding) var(--padding) var(--padding-small) var(--padding);
+}
+
+.modal .modal-footer {
+    display        : flex;
+    justify-content: flex-end;
+    align-items    : center;
+    padding        : var(--padding-small) var(--padding) var(--padding) var(--padding);
+}
+
+.modal .modal-body {
+    padding   : var(--padding-small) var(--padding);
+    max-height: 600px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.modal-title {
+    font-size  : calc(var(--font-size) * 1.4);
+    font-weight: 550;
+}
