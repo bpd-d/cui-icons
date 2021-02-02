@@ -12,7 +12,7 @@
    viewBox="0 0 20 20"
    version="1.1"
    id="svg836"
-   inkscape:version="1.0beta2 (6465177, 2020-02-22)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
    sodipodi:docname="object-right.svg">
   <title
      id="title5097">base</title>
@@ -34,11 +34,11 @@
      units="px"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="2560"
-     inkscape:window-height="1017"
-     inkscape:window-x="2728"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
+     inkscape:window-width="1258"
+     inkscape:window-height="912"
+     inkscape:window-x="3006"
+     inkscape:window-y="129"
+     inkscape:window-maximized="0"
      inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
@@ -80,30 +80,21 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <rect
-     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+  <path
      id="rect910"
-     width="3.8571422"
-     height="15.428569"
-     x="-18.999998"
-     y="1.000003"
-     transform="rotate(-90)" />
-  <rect
-     y="4.8571444"
-     x="-11.92857"
-     height="11.571427"
-     width="3.8571422"
+     style="fill:none;stroke:#000000;stroke-width:0.999997;stroke-linecap:round;stroke-linejoin:round"
+     transform="rotate(-90)"
+     d="m -17.857143,2 h 3.857142 v 14.428572 h -3.857142 z" />
+  <path
      id="rect912"
-     style="fill:none;stroke:#000000;stroke-width:0.999998;stroke-linecap:round;stroke-linejoin:round"
-     transform="rotate(-90)" />
-  <rect
-     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:none;stroke:#000000;stroke-width:0.999997;stroke-linecap:round;stroke-linejoin:round"
+     transform="rotate(-90)"
+     d="m -11.92857,5.607142 h 3.8571424 V 16.428571 H -11.92857 Z" />
+  <path
      id="rect914"
-     width="3.8571422"
-     height="14.142855"
-     x="-4.8571424"
-     y="2.2857161"
-     transform="rotate(-90)" />
+     style="fill:none;stroke:#000000;stroke-width:0.999997;stroke-linecap:round;stroke-linejoin:round"
+     transform="rotate(-90)"
+     d="m -6,3.2023799 h 3.8571422 V 16.428571 H -6 Z" />
   <path
      style="fill:none;stroke:#000000;stroke-width:0.999995;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      d="M 19,18.999998 V 1.0000001"

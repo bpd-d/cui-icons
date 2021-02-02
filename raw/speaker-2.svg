@@ -12,7 +12,7 @@
    viewBox="0 0 20 20"
    version="1.1"
    id="svg836"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
    sodipodi:docname="speaker-2.svg">
   <title
      id="title5097">base</title>
@@ -25,20 +25,20 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16.263456"
-     inkscape:cx="9.9833882"
-     inkscape:cy="5.3194452"
+     inkscape:zoom="8.131728"
+     inkscape:cx="-17.166023"
+     inkscape:cy="11.541488"
      inkscape:document-units="px"
      inkscape:current-layer="svg836"
      showgrid="true"
      units="px"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="2560"
-     inkscape:window-height="1017"
-     inkscape:window-x="2728"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
+     inkscape:window-width="1258"
+     inkscape:window-height="912"
+     inkscape:window-x="2824"
+     inkscape:window-y="26"
+     inkscape:window-maximized="0"
      inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
@@ -80,22 +80,19 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <rect
-     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+  <path
      id="rect928"
-     width="12.857143"
-     height="18"
-     x="3.5714285"
-     y="1" />
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+     d="M 3.5714285,2 H 16.428572 V 18 H 3.5714285 Z" />
   <path
      id="path930"
      style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
-     d="M 11.285714,4.8571429 A 1.2857144,1.2857144 0 0 1 10,6.1428573 1.2857144,1.2857144 0 0 1 8.7142856,4.8571429 1.2857144,1.2857144 0 0 1 10,3.5714285 1.2857144,1.2857144 0 0 1 11.285714,4.8571429 Z"
+     d="M 11.285714,6 A 1.2857144,1.2857144 0 0 1 10,7.2857144 1.2857144,1.2857144 0 0 1 8.7142856,6 1.2857144,1.2857144 0 0 1 10,4.7142856 1.2857144,1.2857144 0 0 1 11.285714,6 Z"
      class="fill" />
   <path
      id="path934"
-     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
-     d="M 13.521739,12.571428 A 3.5217392,3.5217392 0 0 1 10,16.093168 3.5217392,3.5217392 0 0 1 6.4782608,12.571428 3.5217392,3.5217392 0 0 1 10,9.0496891 3.5217392,3.5217392 0 0 1 13.521739,12.571428 Z"
+     style="fill:none;stroke:#000000;stroke-width:0.999997;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+     d="M 13,12.571428 A 3.0000002,3.0000002 0 0 1 10,15.571429 3.0000002,3.0000002 0 0 1 6.9999998,12.571428 3.0000002,3.0000002 0 0 1 10,9.5714282 3.0000002,3.0000002 0 0 1 13,12.571428 Z"
      class="fill" />
   <path
      style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"

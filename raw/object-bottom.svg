@@ -12,7 +12,7 @@
    viewBox="0 0 20 20"
    version="1.1"
    id="svg836"
-   inkscape:version="1.0beta2 (6465177, 2020-02-22)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
    sodipodi:docname="object-bottom.svg">
   <title
      id="title5097">base</title>
@@ -34,11 +34,11 @@
      units="px"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="2560"
-     inkscape:window-height="1017"
-     inkscape:window-x="2728"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
+     inkscape:window-width="1258"
+     inkscape:window-height="912"
+     inkscape:window-x="2876"
+     inkscape:window-y="78"
+     inkscape:window-maximized="0"
      inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
@@ -80,30 +80,21 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <rect
-     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
-     id="rect910"
-     width="3.8571429"
-     height="15.428572"
-     x="1"
-     y="1.0000004" />
-  <rect
-     y="4.8571434"
-     x="8.0714283"
-     height="11.571428"
-     width="3.8571429"
-     id="rect912"
-     style="fill:none;stroke:#000000;stroke-width:0.999998;stroke-linecap:round;stroke-linejoin:round" />
-  <rect
-     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
-     id="rect914"
-     width="3.8571429"
-     height="14.142858"
-     x="15.142858"
-     y="2.2857146" />
   <path
-     style="fill:none;stroke:#000000;stroke-width:0.999995;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     d="M 1,19.000001 H 19"
+     id="rect910"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     d="M 2,2.0000002 H 5.4285715 V 15.714286 H 2 Z" />
+  <path
+     id="rect912"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     d="M 8.2857141,5.4285717 H 11.714286 V 15.714286 H 8.2857141 Z" />
+  <path
+     id="rect914"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     d="m 14.571429,3.1428576 h 3.428572 V 15.714287 h -3.428572 z" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.999991;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 2.0000001,18.000001 H 18"
      id="path916"
      inkscape:connector-curvature="0" />
 </svg>
