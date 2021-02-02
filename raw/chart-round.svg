@@ -13,7 +13,7 @@
    version="1.1"
    id="svg836"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
-   sodipodi:docname="chart-square.svg">
+   sodipodi:docname="chart-line.svg">
   <title
      id="title5097">base</title>
   <defs
@@ -25,20 +25,20 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16.263456"
-     inkscape:cx="13.42114"
-     inkscape:cy="11.622631"
+     inkscape:zoom="5.75"
+     inkscape:cx="89.60682"
+     inkscape:cy="-28.656425"
      inkscape:document-units="px"
      inkscape:current-layer="svg836"
      showgrid="true"
      units="px"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1258"
-     inkscape:window-height="912"
-     inkscape:window-x="2850"
-     inkscape:window-y="52"
-     inkscape:window-maximized="0"
+     inkscape:window-width="2498"
+     inkscape:window-height="1057"
+     inkscape:window-x="2790"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
      inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
@@ -83,7 +83,7 @@
      id="path839" />
   <path
      style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="M 4,16 C 4,16 7.7367988,15.047917 9.1067758,13.799338 12.137724,11.036972 14,7 15,3"
-     id="path893"
-     sodipodi:nodetypes="cac" />
+     d="m 4,12 c 0,0 1.7339732,-4.9741734 3.846281,-5.0400135 2.592891,-0.08082 2.522903,5.5627865 5.097507,5.8806455 C 14.582008,13.042885 14.763932,10 17,10"
+     id="path841"
+     sodipodi:nodetypes="caac" />
 </svg>
