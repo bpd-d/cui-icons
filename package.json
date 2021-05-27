@@ -1,24 +1,23 @@
 {
-  "name": "bpd-cui-icons",
-  "version": "0.1.23",
-  "description": "SVG icons pack for cUI",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/bpd-d/cui-icons.git"
-  },
-  "keywords": [
-    "icons",
-    "svg",
-    "cUI"
-  ],
-  "author": "bpd-dev",
-  "license": "GPL-3.0",
-  "bugs": {
-    "url": "https://github.com/bpd-d/cui-icons/issues"
-  },
-  "homepage": "https://github.com/bpd-d/cui-icons#readme"
+	"name": "bpd-cui-icons",
+	"version": "1.0.0",
+	"description": "SVG icons pack for cUI",
+	"main": "cui-icons.js",
+	"scripts": {},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/bpd-d/cui-icons.git"
+	},
+	"keywords": [
+		"icons",
+		"svg",
+		"cUI",
+		"BPDev"
+	],
+	"author": "bpd-dev",
+	"license": "GPL-3.0",
+	"bugs": {
+		"url": "https://github.com/bpd-d/cui-icons/issues"
+	},
+	"homepage": "https://github.com/bpd-d/cui-icons#readme"
 }

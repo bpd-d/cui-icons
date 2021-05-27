@@ -1,44 +1,42 @@
 <!DOCTYPE html>
 <html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Iconpack builder</title>
+	</head>
+	<link rel="stylesheet" href="styles.css" />
+	<script src="index.js" type="module" defer></script>
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Iconpack builder</title>
-</head>
-<link rel="stylesheet" href="styles.css">
-<script src="/esm/index.js" type="module" defer></script>
-<script src="index.js" type="module" defer></script>
-
-<body>
-    <!-- Navbar -->
-    <nav class="navbar">
-        <div class="navbar-left"><span class="navbar-title">cUI Icon pack builder</span></div>
-        <div class="navbar-right">Icons version: <span id="icons-version"></span></div>
-    </nav>
-    <div class="button-bar">
-        <button class="button" id="switch-view">List</button>
-    </div>
-    <!-- Body -->
-    <div class="container grid" id="icons-container">
-
-    </div>
-    <div class="floating-bar">
-        <button class="button" id="submit">Create</button>
-    </div>
-    <div class="modal" id="modal">
-        <div class="modal-container">
-            <div class="modal-header">
-                <span class="modal-title">Result</span>
-            </div>
-            <div class="modal-body" id="out-data"></div>
-            <div class="modal-footer">
-                <button class="button" id="copy-result">Copy all</button>
-                <button class="button" id="modal-close">Close</button>
-            </div>
-
-        </div>
-    </div>
-</body>
-
+	<body>
+		<!-- Navbar -->
+		<nav class="navbar">
+			<div class="navbar-left">
+				<span class="navbar-title">cUI Icon pack builder</span>
+			</div>
+			<div class="navbar-right">
+				Icons version: <span id="icons-version"></span>
+			</div>
+		</nav>
+		<div class="button-bar">
+			<button class="button" id="switch-view">List</button>
+		</div>
+		<!-- Body -->
+		<div class="container grid" id="icons-container"></div>
+		<div class="floating-bar">
+			<button class="button" id="submit">Create</button>
+		</div>
+		<div class="modal" id="modal">
+			<div class="modal-container">
+				<div class="modal-header">
+					<span class="modal-title">Result</span>
+				</div>
+				<div class="modal-body" id="out-data"></div>
+				<div class="modal-footer">
+					<button class="button" id="copy-result">Copy all</button>
+					<button class="button" id="modal-close">Close</button>
+				</div>
+			</div>
+		</div>
+	</body>
 </html>
